@@ -1,0 +1,21 @@
+/* estilo.css */
+
+/* tema claro (padrão) */
+:root {
+  --bg-color: #f1f1f1;
+  --text-color: #212529;
+  --btn-bg: #ffffff;
+  --btn-hover-bg: #e2e6ea;
+  --btn-text: #212529;
+  --border-color: #a4a7aa;
+}
+
+/* tema escuro */
+:root[data-theme='dark'] {
+  --bg-color: #05151E;
+  --text-color: #FFD12D;
+  --btn-bg: #212529;
+  --btn-hover-bg: #343a40;
+  --btn-text: #FFD12D;
+  --border-color: #FFD12D;
+}
