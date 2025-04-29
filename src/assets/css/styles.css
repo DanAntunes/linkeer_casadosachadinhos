@@ -1,1 +1,14 @@
 @import url(./styles/reset.css);
+@import url(./styles/variaveis.css);
+@import url(./styles/logo.css);
+@import url(./styles/btn.css);
+@import url(./styles/main.css);
+@import url(./styles/footer.css);
+
+h2 {
+  text-align: center;
+  color: var(--text-color);
+  font-weight: 450 !important;
+}
+
+
