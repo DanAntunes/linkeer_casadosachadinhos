@@ -9,6 +9,7 @@
   --btn-text: #212529;
   --border-color: #a4a7aa;
   --bg-img: #05151E ;
+  --bg-footer: #c7cbcf;
 }
 
 /* tema escuro */
@@ -20,4 +21,5 @@
   --btn-text: #FFD12D;
   --border-color: #FFD12D;
   --bg-img: #FFD12D ;
+  --bg-footer: #030d14;
 }
