@@ -1,4 +1,21 @@
-footer {
+/* Deixe o footer mais “slim” reduzindo padding e tamanho de fonte */
 
+/* 1) Override das classes Bootstrap no container interno */
+footer .container {
+  padding: 0.35rem 0;    /* antes era p-1 (0.25rem) – pode até usar p-0 */
+  margin-top: 0;         /* remove mt-2 */
+  margin-bottom: 0;      /* já tinha mb-0, mas reforça */
+}
+
+/* 2) Remova margem extra do <p> e ajuste fonte */
+footer .container p {
+  margin: 0;             /* elimina qualquer margin default */
+  font-size: 0.875rem;   /* deixa mais discreto */
+  line-height: 1.7;      /* mais compacto */
+}
+
+/* 3) Bordas e cores mantidos */
+footer {
+  background-color: var(--bg-footer);
   border-top: 1px solid var(--border-color);
 }
