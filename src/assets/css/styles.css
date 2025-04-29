@@ -5,4 +5,18 @@
 @import url(./styles/components/btn.css);
 @import url(./styles/footer/footer.css);
 
+/* Ajuste para telas ≤768px */
+@media (max-width: 768px) {
+  html, body {
+    min-height: 100vh;
+    height: auto;
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
 
