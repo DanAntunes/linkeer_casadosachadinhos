@@ -8,6 +8,7 @@
   --border-color: #a4a7aa;
   --bg-img: #05151E ;
   --bg-footer: #c7cbcf;
+  --border-error: #FF0000;
 }
 
 /* tema escuro */
@@ -20,6 +21,7 @@
   --border-color: #FFD12D;
   --bg-img: #FFD12D ;
   --bg-footer: #030d14;
+  --border-error: #FF0000;
 }
 
 h2 {
