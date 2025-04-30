@@ -11,6 +11,7 @@ footer .container p {
 }
 
 footer {
+  margin-top: 2px;
   background-color: var(--bg-footer);
   border-top: 1px solid var(--border-color);
 }
