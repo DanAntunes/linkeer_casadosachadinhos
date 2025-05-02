@@ -45,19 +45,27 @@ function renderProducts(list) {
   });
 }
 
-  function updateResults() {
-    const site     = siteSelect.value;
-    let products   = getProductsBySite(site);
-    const query    = searchInput.value.trim().toLowerCase();
+function updateResults() {
+  const site   = siteSelect.value;
+  let products = getProductsBySite(site);
+  const query  = searchInput.value.trim().toLowerCase();
 
-    if (query) {
+  if (query) {
+    if (/^\d+$/.test(query)) {
+      // Se só dígitos, compara exatamente o ID
       products = products.filter(p =>
-        p.name.toLowerCase().includes(query) || p.id.toLowerCase().includes(query)
+        p.id.toLowerCase() === query
+      );
+    } else {
+      // Senão, busca no nome
+      products = products.filter(p =>
+        p.name.toLowerCase().includes(query)
       );
     }
-
-    renderProducts(products);
   }
+
+  renderProducts(products);
+}
 
   siteSelect.addEventListener("change", updateResults);
   searchInput.addEventListener("input", updateResults);
