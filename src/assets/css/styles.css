@@ -1,5 +1,9 @@
 @import url(./styles/base/_base.css);
 @import url(./styles/components/_components.css);
+@import url(./styles/header/logo.css);
+@import url(./styles/main.css);
+@import url(./styles/footer/footer.css);
+
 /* Ajuste para telas ≤768px */
 @media (max-width: 768px) {
   html, body {
