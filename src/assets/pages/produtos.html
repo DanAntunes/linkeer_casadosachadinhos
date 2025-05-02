@@ -57,18 +57,30 @@
       </section>
     </div>
 
+<!-- Adicione isto no HTML dentro da tag <main> -->
+  <div class="control-container p-4 rounded-4 mb-4">
     <h2 class="mb-4 display-7">Pesquisar Produtos</h2>
-
-    <div class="row">
-      <div class="container-fluid mb-4 col-md-6">
-        <select id="siteSelect" class="form-select">
+    
+    <div class="row g-3 justify-content-center">
+      <div class="col-12 col-md-5">
+        <select id="siteSelect" class="form-select custom-select">
           <option value="" selected>Escolha o e-commerce</option>
           <option value="amazon">Amazon</option>
           <option value="ml">Mercado Livre</option>
           <option value="shopee">Shopee</option>
         </select>
       </div>
+  
+      <div class="col-12 col-md-5">
+        <input id="productSearch" type="search" class="form-control custom-search" placeholder="Pesquisar produto por nome ou código">
+      </div>
+
+      <div id="resultsContainer" class="products-list mt-4"></div>
+
     </div>
+  </div>
+</div>
+  
 
 
   </main>
@@ -80,7 +92,10 @@
   </footer>
   
 
-  <script src="../js/theme.js" defer></script>
-  <script src="../js/search.js" defer></script>
+  <script type="module" src="../js/theme.js" defer></script>
+  <script type="module" src="../js/search.js" defer></script>
+  <script type="module" src="../js/amazon.js" defer></script>
+  <script type="module" src="../js/ml.js" defer></script>
+  <script type="module" src="../js/shopee.js" defer></script>
 </body>
 </html>
