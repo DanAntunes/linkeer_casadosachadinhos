@@ -1,10 +1,4 @@
-@import url(./styles/base/reset.css);
-@import url(./styles/base/variaveis.css);
-@import url(./styles/main.css);
-@import url(./styles/header/logo.css);
-@import url(./styles/components/btn.css);
-@import url(./styles/footer/footer.css);
-@import url(./styles/components/warning.css);
+@import url(./styles/base/_base.css);
 
 /* Ajuste para telas ≤768px */
 @media (max-width: 768px) {
