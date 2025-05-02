@@ -26,3 +26,5 @@ toggle.addEventListener('change', () => {
     icon.classList.replace('bi-moon','bi-sun');
   }
 });
+
+document.documentElement.style.setProperty('--btn-bg-rgb', '33,37,41');
