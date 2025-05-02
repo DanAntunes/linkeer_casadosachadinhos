@@ -3,7 +3,9 @@
   --bg-color: #f1f1f1;
   --text-color: #212529;
   --btn-bg: #ffffff;
+  --btn-color: #fff ;
   --btn-hover-bg: #e2e6ea;
+  --btn-hover-color: #092333;
   --btn-text: #212529;
   --border-color: #a4a7aa;
   --bg-img: #05151E ;
@@ -16,7 +18,9 @@
   --bg-color: #05151E;
   --text-color: #FFD12D;
   --btn-bg: #212529;
+  --btn-color: #343a40 ;
   --btn-hover-bg: #343a40;
+  --btn-hover-color: #f7c615;
   --btn-text: #FFD12D;
   --border-color: #FFD12D;
   --bg-img: #FFD12D ;
