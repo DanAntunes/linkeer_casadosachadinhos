@@ -1,5 +1,20 @@
 export const productsAmazon = [
-  { id: "A1", name: "Echo Dot (4ª Geração)", image: "../image/amazon/echo-dot-4th.jpg", affiliateLink: "https://amzn.to/exemplo1" },
-  { id: "A2", name: "Fire TV Stick 4K",       image: "../image/amazon/fire-tv-stick-4k.jpg", affiliateLink: "https://amzn.to/exemplo2" }
-  // ...
+  { 
+    id: "1", 
+    name: "Creamy Skincare Calming Cream", 
+    image: "../image/produtos/amazon/PRODUTO_N_1.jpg", 
+    affiliateLink: "https://amzn.to/4iSma2Q" 
+  },
+  { 
+    id: "2", 
+    name: "Luminária de Mesa LED Recarregável",       
+    image: "../image/produtos/amazon/PRODUTO_N_2.jpg", 
+    affiliateLink: "https://amzn.to/4jzBQca" 
+  },
+  { 
+    id: "3", 
+    name: "Secador de Cabelos Travel",       
+    image: "../image/produtos/amazon/PRODUTO_N_3.jpg", 
+    affiliateLink: "https://amzn.to/4jDtb8K" 
+  },
 ];
