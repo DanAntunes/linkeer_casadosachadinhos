@@ -1,4 +1,3 @@
-// ../js/search.js
 import { productsAmazon } from './amazon.js';
 import { productsML }     from './ml.js';
 import { productsShopee } from './shopee.js';
@@ -19,7 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
 function renderProducts(list) {
   resultsContainer.innerHTML = "";
   
-  list.forEach(prod => {
+  // biome-ignore lint/complexity/noForEach: <explanation>
+    list.forEach(prod => {
     const card = document.createElement("div");
     card.className = "card mb-3";
 
