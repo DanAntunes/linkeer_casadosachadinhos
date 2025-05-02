@@ -1,30 +1,28 @@
-/* Adicione isto ao CSS */
 .control-container {
   background: rgba(var(--btn-bg-rgb), 0.1);
   backdrop-filter: blur(10px);
   border: 1px solid var(--border-color);
-  max-width: 800px; /* Ponto de ajuste de tamanho */
+  max-width: 800px; 
   margin: 0 auto;
 }
 
 .custom-select {
-  max-width: 300px; /* Largura ajustável */
+  max-width: 300px;
   margin: 0 auto;
-  border: 2px solid var(--border-color);
   transition: all 0.3s ease;
 }
 
 .custom-search {
-  max-width: 400px; /* Largura ajustável */
+  max-width: 400px; 
   margin: 0 auto;
 }
 
 .products-list .card {
-  max-width: 600px; /* Ponto de ajuste de tamanho */
+  max-width: 600px; 
   margin: 1rem auto;
   padding: 1.5rem;
   border: none;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
   transition: transform 0.2s ease;
   background: var(--btn-bg) !important;
 }
@@ -52,6 +50,7 @@
 .products-list .btn {
   background: var(--bg-img);
   border: none;
+  color: var(--btn-color);
   padding: 0.8rem 1.5rem;
   border-radius: 25px;
   font-weight: 500;
@@ -60,7 +59,7 @@
 }
 
 .products-list .btn:hover {
-  background: var(--border-color);
+  background: var(--btn-hover-color);
   transform: scale(1.05);
 }
 
