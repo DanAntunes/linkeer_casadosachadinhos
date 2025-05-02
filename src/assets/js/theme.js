@@ -1,9 +1,6 @@
-// tema.js
-
 const toggle = document.getElementById('themeToggle');
 const icon   = document.getElementById('themeIcon');
 
-// inicializa estado conforme localStorage
 const stored = localStorage.getItem('theme');
 if (stored === 'dark') {
   document.documentElement.setAttribute('data-theme', 'dark');
@@ -13,8 +10,6 @@ if (stored === 'dark') {
   document.documentElement.setAttribute('data-theme', 'light');
   icon.classList.replace('bi-moon','bi-sun');
 }
-
-// alterna tema, ícone e localStorage
 toggle.addEventListener('change', () => {
   if (toggle.checked) {
     document.documentElement.setAttribute('data-theme', 'dark');
