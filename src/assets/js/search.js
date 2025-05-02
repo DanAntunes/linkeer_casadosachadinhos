@@ -29,7 +29,7 @@ function renderProducts(list) {
           <img src="${prod.image}" class="img-fluid rounded-start" alt="${prod.name}">
         </div>
         <div class="col-md-8">
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">${prod.name}</h5>
             <a href="${prod.affiliateLink}" 
                class="btn" 
