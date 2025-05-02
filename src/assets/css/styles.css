@@ -1,5 +1,5 @@
 @import url(./styles/base/_base.css);
-
+@import url(./styles/components/_components.css);
 /* Ajuste para telas ≤768px */
 @media (max-width: 768px) {
   html, body {
