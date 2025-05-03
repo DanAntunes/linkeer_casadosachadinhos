@@ -6,7 +6,6 @@
   margin: 0 auto;
 }
 
-/* Remove max-width e força 100% da coluna */
 .custom-select,
 .custom-search {
   width: 100%;
@@ -14,7 +13,6 @@
   transition: all 0.3s ease;
 }
 
-/* Cards de produtos continuam os mesmos */
 .products-list .card {
   max-width: 600px;
   margin: 1rem auto;
@@ -79,7 +77,6 @@
   }
 }
 
-/* Ajustes extras para telas muito pequenas (≤575px) */
 @media (max-width: 575px) {
   .custom-select,
   .custom-search {
