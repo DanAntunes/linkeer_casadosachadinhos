@@ -59,4 +59,34 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_10.webp", 
     affiliateLink: "https://mercadolivre.com/sec/1kHHTVc" 
   },
+  { 
+    id: "11", 
+    name: "Chaleira Elétrica Atacama",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_11.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/27FX3y8" 
+  },
+  { 
+    id: "12", 
+    name: "Fone De Ouvido Gamer Headset",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_12.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/1w2mtvz" 
+  },
+  { 
+    id: "13", 
+    name: "Mouse Sem Fio Recarregável Wireless Óptico LED RGB",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_13.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/2jMfjEa" 
+  },
+  { 
+    id: "14", 
+    name: "Fone De Ouvido Bluetooth Sem Fio TWS com Microfone e LED",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_14.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/342bs6S" 
+  },
+  { 
+    id: "15", 
+    name: "Maquina Maquininha De Cortar Cabelo Kamufla",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_15.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/13mrSkc" 
+  },
 ];
