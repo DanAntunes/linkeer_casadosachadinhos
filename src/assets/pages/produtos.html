@@ -48,42 +48,41 @@
   </header>
 
   <main class="container">
-    <div class=" text-center">
+    <div class="text-center">
       <!-- Seção da Logo -->
       <section class="logo-container">
-       <a href="../../../index.html">
-        <img src="../image/logo/house_of_promos_logo.png" alt="Logo" class="logo-img">
-       </a>
+        <a href="../../../index.html">
+          <img src="../image/logo/house_of_promos_logo.png" alt="Logo" class="logo-img">
+        </a>
       </section>
     </div>
-
-  <div class="control-container p-4 rounded-4 mb-4">
-    <h2 class="mb-4 display-7">Pesquisar Produtos</h2>
-    
-    <div class="row g-3 justify-content-center">
-      <div class="col-12 col-md-5">
-        <select id="siteSelect" class="form-select custom-select">
-          <option value="" selected>Escolha o e-commerce</option>
-          <option value="amazon">Amazon</option>
-          <option value="ml">Mercado Livre</option>
-          <option value="shopee">Shopee</option>
-        </select>
+  
+    <div class="control-container p-4 rounded-4 mb-4">
+      <h2 class="mb-4 display-7">Pesquisar Produtos</h2>
+  
+      <div class="row g-3 justify-content-center">
+        <div class="col-12 col-sm-6">
+          <select id="siteSelect" class="form-select custom-select">
+            <option value="" selected>Escolha o e-commerce</option>
+            <option value="amazon">Amazon</option>
+            <option value="ml">Mercado Livre</option>
+            <option value="shopee">Shopee</option>
+          </select>
+        </div>
+  
+        <div class="col-12 col-sm-6">
+          <input id="productSearch"
+                 type="search"
+                 class="form-control custom-search"
+                 placeholder="Pesquisar produto por nome ou nº">
+        </div>
       </div>
   
-      <div class="col-12 col-md-5">
-        <input id="productSearch" type="search" class="form-control custom-search" placeholder="Pesquisar produto por nome ou nº">
+      <div id="resultsContainer" class="products-list mt-4">
       </div>
-
-      <div id="resultsContainer" class="products-list mt-4"></div>
-
     </div>
-  </div>
-</div>
-  
-
-
   </main>
-
+  
   <footer class="mt-3">
     <div class="container text-center">
       <p>&copy; 2025 Casa das Ofertas. Todos os direitos reservados.</p>
