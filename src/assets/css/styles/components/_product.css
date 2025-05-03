@@ -2,27 +2,28 @@
   background: rgba(var(--btn-bg-rgb), 0.1);
   backdrop-filter: blur(10px);
   border: 1px solid var(--border-color);
-  max-width: 800px; 
+  max-width: 800px;
   margin: 0 auto;
 }
 
-.custom-select {
-  max-width: 300px;
+/* Remove max-width e força 100% da coluna */
+.custom-select,
+.custom-search {
+  width: 100%;
   margin: 0 auto;
   transition: all 0.3s ease;
 }
 
-.custom-search {
-  max-width: 400px; 
-  margin: 0 auto;
-}
-
+/* Cards de produtos continuam os mesmos */
 .products-list .card {
-  max-width: 600px; 
+  max-width: 600px;
   margin: 1rem auto;
   padding: 1.5rem;
   border: none;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  box-shadow:
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
   transition: transform 0.2s ease;
   background: var(--btn-bg) !important;
 }
@@ -68,7 +69,6 @@
     flex-direction: column;
     text-align: center;
   }
-  
   .products-list img {
     border-right: none;
     border-bottom: 1px solid var(--border-color);
@@ -77,4 +77,14 @@
     padding-bottom: 1rem;
     margin-bottom: 1rem;
   }
-} 
+}
+
+/* Ajustes extras para telas muito pequenas (≤575px) */
+@media (max-width: 575px) {
+  .custom-select,
+  .custom-search {
+    font-size: 0.9rem;
+    padding: 0.375rem 0.75rem;
+    width: 100%;
+  }
+}
