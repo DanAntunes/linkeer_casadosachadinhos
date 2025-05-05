@@ -89,4 +89,16 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_15.webp", 
     affiliateLink: "https://mercadolivre.com/sec/13mrSkc" 
   },
+  { 
+    id: "16", 
+    name: "Monitor Gamer AOC 24” 180 Hz IPS",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_16.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/2Djhyr9" 
+  },
+  { 
+    id: "17", 
+    name: " Kit Potes Herméticos Electrolux",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_17.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/2eyTYkP" 
+  },
 ];
