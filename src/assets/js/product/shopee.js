@@ -23,4 +23,22 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_4.webp",    
     affiliateLink: "https://s.shopee.com.br/1B9SESTzAE" 
   },
+  { 
+    id: "5", 
+    name: "Sandália Feminina Lumiss Salto Baixo Geométrico Metalizado",   
+    image: "../image/produtos/shopee/PRODUTO_N_5.webp",    
+    affiliateLink: "https://s.shopee.com.br/4L6aM6Iubd" 
+  },
+  { 
+    id: "6", 
+    name: "Smartphone Infinix Note 40 5G Racing Edition",   
+    image: "../image/produtos/shopee/PRODUTO_N_6.webp",    
+    affiliateLink: "https://s.shopee.com.br/7V3c8TtPEe" 
+  },
+  { 
+    id: "7", 
+    name: "Pro 4s TWS / i12 TWS Fone De Ouvido Sem Fio inpods 3",   
+    image: "../image/produtos/shopee/PRODUTO_N_7.webp",    
+    affiliateLink: "https://s.shopee.com.br/1B9YcODFR1" 
+  },
 ];
