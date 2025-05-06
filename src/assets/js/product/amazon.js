@@ -29,4 +29,16 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_5.jpg", 
     affiliateLink: "https://amzn.to/3RRLiM2" 
   },
+  { 
+    id: "6", 
+    name: "Echo Pop | Smart speaker compacto com som envolvente e Alexa",       
+    image: "../image/produtos/amazon/PRODUTO_N_6.jpg", 
+    affiliateLink: "https://amzn.to/3Snl04h" 
+  },
+  { 
+    id: "7", 
+    name: "Smartphone Motorola Moto g55 5G ",       
+    image: "../image/produtos/amazon/PRODUTO_N_7.jpg", 
+    affiliateLink: "https://amzn.to/4jYExE6" 
+  },
 ];
