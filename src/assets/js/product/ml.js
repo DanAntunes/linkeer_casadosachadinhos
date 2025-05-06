@@ -101,4 +101,10 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_17.webp", 
     affiliateLink: "https://mercadolivre.com/sec/2eyTYkP" 
   },
+  { 
+    id: "18", 
+    name: "Jogo De Lençol Queen 3 Peças 400 Fios C/ Elástico Hotel",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_18.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/2tmuKvL" 
+  },
 ];
