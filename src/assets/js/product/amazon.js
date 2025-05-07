@@ -41,4 +41,11 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_7.jpg", 
     affiliateLink: "https://amzn.to/4jYExE6" 
   },
+  { 
+    id: "8", 
+    name: "Wella Professionals Oil Reflections Light Óleo Capilar 100 ml",       
+    image: "../image/produtos/amazon/PRODUTO_N_8.jpg", 
+    affiliateLink: "https://amzn.to/3GJqF2g" 
+  },
+  
 ];
