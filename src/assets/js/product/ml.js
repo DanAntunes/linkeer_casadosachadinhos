@@ -107,4 +107,16 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_18.webp", 
     affiliateLink: "https://mercadolivre.com/sec/2tmuKvL" 
   },
+    { 
+    id: "19", 
+    name: "Relógio Feminino + Colar Pingente + Brincos folheados a ouro",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_19.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/17fuktM" 
+  },
+    { 
+    id: "20", 
+    name: "Cafeteira Cp15 Inox 15 Cafezinhos 550w Preto Britânia 220v",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_20.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/26cGqxS" 
+  },
 ];
