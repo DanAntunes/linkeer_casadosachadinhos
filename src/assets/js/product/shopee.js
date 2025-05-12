@@ -41,4 +41,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_7.webp",    
     affiliateLink: "https://s.shopee.com.br/1B9YcODFR1" 
   },
+    { 
+    id: "8", 
+    name: "Comedouro Bebedouro Gato e Cachorro Elevado Pet Mdf",   
+    image: "../image/produtos/shopee/PRODUTO_N_8.webp",    
+    affiliateLink: "https://s.shopee.com.br/7V3myhLJNS" 
+  },
 ];
