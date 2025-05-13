@@ -41,10 +41,59 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_7.webp",    
     affiliateLink: "https://s.shopee.com.br/1B9YcODFR1" 
   },
-    { 
+  { 
     id: "8", 
     name: "Comedouro Bebedouro Gato e Cachorro Elevado Pet Mdf",   
     image: "../image/produtos/shopee/PRODUTO_N_8.webp",    
     affiliateLink: "https://s.shopee.com.br/7V3myhLJNS" 
   },
+  { 
+    id: "9", 
+    name: "Camisa Social Floral Masculina Havaiana Estampa - Preta",   
+    image: "../image/produtos/shopee/PRODUTO_N_9.webp",    
+    affiliateLink: "https://s.shopee.com.br/30bPPk5Vwe" 
+  },
+  { 
+    id: "9", 
+    name: "Camisa Social Floral Masculina Havaiana Estampa - Branca",   
+    image: "../image/produtos/shopee/PRODUTO_N_9_2.webp",    
+    affiliateLink: "https://s.shopee.com.br/30bPPk5Vwe" 
+  },
+  { 
+    id: "9", 
+    name: "Camisa Social Floral Masculina Havaiana Estampa - Azul",   
+    image: "../image/produtos/shopee/PRODUTO_N_9_3.webp",    
+    affiliateLink: "https://s.shopee.com.br/30bPPk5Vwe" 
+  },
+  { 
+    id: "10", 
+    name: "Videogame Stick 10mil jogos",   
+    image: "../image/produtos/shopee/PRODUTO_N_10.webp",    
+    affiliateLink: "https://s.shopee.com.br/4VQDEYaUsB" 
+  },
+  { 
+    id: "11", 
+    name: "Tênis Diker F1 - Masculino",   
+    image: "../image/produtos/shopee/PRODUTO_N_11.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
+  },
+  { 
+    id: "11", 
+    name: "Tênis Diker F1 - Feminino",   
+    image: "../image/produtos/shopee/PRODUTO_N_11_3.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
+  },
+  { 
+    id: "11", 
+    name: "Tênis Diker F1 - Masculino",   
+    image: "../image/produtos/shopee/PRODUTO_N_11_2.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
+  },
+  { 
+    id: "11", 
+    name: "Tênis Diker F1 - Feminino",   
+    image: "../image/produtos/shopee/PRODUTO_N_11_4.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
+  },
+  
 ];
