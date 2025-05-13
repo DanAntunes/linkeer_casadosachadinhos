@@ -95,5 +95,16 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_11_4.webp",    
     affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
   },
-  
+  { 
+    id: "12", 
+    name: "Smartwatch D20 relógio",   
+    image: "../image/produtos/shopee/PRODUTO_N_12.jpg",    
+    affiliateLink: "https://s.shopee.com.br/3VXg53OppO" 
+  },
+  { 
+    id: "13", 
+    name: "Drone E88 Pro 4K HD",   
+    image: "../image/produtos/shopee/PRODUTO_N_13.webp",    
+    affiliateLink: "https://s.shopee.com.br/10qL6vVRAZ" 
+  },
 ];
