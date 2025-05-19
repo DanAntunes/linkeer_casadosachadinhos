@@ -119,34 +119,40 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_14_bordo.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
-    { 
+  { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Branco",   
     image: "../image/produtos/shopee/PRODUTO_N_14_branco.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
-    { 
+  { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Cinza",   
     image: "../image/produtos/shopee/PRODUTO_N_14_cinza.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
-    { 
+  { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Preto",   
     image: "../image/produtos/shopee/PRODUTO_N_14_preto.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
-    { 
+  { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Preto Liso",   
     image: "../image/produtos/shopee/PRODUTO_N_14_preto_liso.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
-      { 
+  { 
     id: "15", 
     name: "Pantufa de Pelúcia confortável",   
     image: "../image/produtos/shopee/PRODUTO_N_15.webp",    
     affiliateLink: "https://s.shopee.com.br/7KkY7FDjfv" 
+  },
+  { 
+    id: "16", 
+    name: "Toalha Grossa Mágica Para Cabelo",   
+    image: "../image/produtos/shopee/PRODUTO_N_16.webp",    
+    affiliateLink: "https://s.shopee.com.br/3frFlyCvxi" 
   },
 ];
