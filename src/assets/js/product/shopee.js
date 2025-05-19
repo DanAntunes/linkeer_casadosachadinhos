@@ -143,4 +143,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_14_preto_liso.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
+      { 
+    id: "15", 
+    name: "Pantufa de Pelúcia confortável",   
+    image: "../image/produtos/shopee/PRODUTO_N_14_preto_liso.webp",    
+    affiliateLink: "https://s.shopee.com.br/7KkY7FDjfv" 
+  },
 ];
