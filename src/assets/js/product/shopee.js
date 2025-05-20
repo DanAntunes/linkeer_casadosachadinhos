@@ -155,4 +155,28 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_16.webp",    
     affiliateLink: "https://s.shopee.com.br/3frFlyCvxi" 
   },
+  { 
+    id: "17", 
+    name: "Hidratante Blow Girl Morango",   
+    image: "../image/produtos/shopee/PRODUTO_N_17.webp",    
+    affiliateLink: "https://s.shopee.com.br/1qPbbCvtwM" 
+  },
+  { 
+    id: "18", 
+    name: "Rodo Spray Limpa Vidros",   
+    image: "../image/produtos/shopee/PRODUTO_N_18.webp",    
+    affiliateLink: "https://s.shopee.com.br/8fFxJnrjhQ" 
+  },
+  { 
+    id: "19", 
+    name: "Escova Elétrica de Limpeza",   
+    image: "../image/produtos/shopee/PRODUTO_N_19.webp",    
+    affiliateLink: "https://s.shopee.com.br/2fykGnim4O" 
+  },
+  { 
+    id: "20", 
+    name: "Mao Slippers 2023",   
+    image: "../image/produtos/shopee/PRODUTO_N_20.webp",    
+    affiliateLink: "https://s.shopee.com.br/2fykIY58yc" 
+  },
 ];
