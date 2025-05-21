@@ -179,4 +179,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_20.webp",    
     affiliateLink: "https://s.shopee.com.br/2fykIY58yc" 
   },
+  { 
+    id: "21", 
+    name: "JOYBE Kit 4 Peças Mochila",   
+    image: "../image/produtos/shopee/PRODUTO_N_21.webp",    
+    affiliateLink: "https://s.shopee.com.br/4AnZLouoHe" 
+  },
 ];
