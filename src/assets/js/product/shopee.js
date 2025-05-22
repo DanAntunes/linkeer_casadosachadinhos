@@ -185,4 +185,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_21.webp",    
     affiliateLink: "https://s.shopee.com.br/4AnZLouoHe" 
   },
+    { 
+    id: "22", 
+    name: "Madesa Reims Cozinha Completa",   
+    image: "../image/produtos/shopee/PRODUTO_N_22.webp",    
+    affiliateLink: "https://s.shopee.com.br/7V42y3hRiY" 
+  },
 ];
