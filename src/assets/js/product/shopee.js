@@ -193,25 +193,25 @@ export const productsShopee = [
   },
   { 
     id: "23", 
-    name: "Tapete para Banho de Secagem Rápida e Super Absorvente",   
+    name: "Tapete de secagem rápida super absorvente",   
     image: "../image/produtos/shopee/PRODUTO_N_23.webp",    
     affiliateLink: "https://s.shopee.com.br/3VYDKFYYj6" 
   },
   { 
     id: "24", 
-    name: "Prateleiras Suporte Com Alto Adesivos Para Parede Banheiro",   
+    name: "Prateleiras adesivas para organizar",   
     image: "../image/produtos/shopee/PRODUTO_N_24.webp",    
     affiliateLink: "https://s.shopee.com.br/4q3av85JCM" 
   },
   { 
     id: "25", 
-    name: "Ducha Higiênica Duas Saídas",   
+    name: " Kit ducha higiênica completo",   
     image: "../image/produtos/shopee/PRODUTO_N_25.webp",    
     affiliateLink: "https://s.shopee.com.br/6VBoucJKOX" 
   },
   { 
     id: "26", 
-    name: "Porta Escova Dentes Com Esterilizador",   
+    name: "Porta escova com esterilizador UV",   
     image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
     affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
   },
