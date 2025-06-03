@@ -209,16 +209,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_25.webp",    
     affiliateLink: "https://s.shopee.com.br/6VBoucJKOX" 
   },
-      { 
-    id: "22", 
-    name: "Madesa Reims Cozinha Completa",   
-    image: "../image/produtos/shopee/PRODUTO_N_22.webp",    
-    affiliateLink: "https://s.shopee.com.br/7V42y3hRiY" 
-  },
-      { 
-    id: "22", 
-    name: "Madesa Reims Cozinha Completa",   
-    image: "../image/produtos/shopee/PRODUTO_N_22.webp",    
-    affiliateLink: "https://s.shopee.com.br/7V42y3hRiY" 
+  { 
+    id: "26", 
+    name: "Porta Escova Dentes Com Esterilizador",   
+    image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
+    affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
   },
 ];
