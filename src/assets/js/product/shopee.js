@@ -233,10 +233,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_29.webp",    
     affiliateLink: "https://s.shopee.com.br/gE2JteW1F" 
   },
-    { 
-    id: "26", 
-    name: "Porta escova com esterilizador UV",   
-    image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
-    affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
+  { 
+    id: "30", 
+    name: "Kit 2 saboneteiras de parede sem furos",   
+    image: "../image/produtos/shopee/PRODUTO_N_30.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qB466RUqU" 
   },
 ];
