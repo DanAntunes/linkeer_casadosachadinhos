@@ -223,9 +223,9 @@ export const productsShopee = [
   },
     { 
     id: "28", 
-    name: "Porta escova com esterilizador UV",   
-    image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
-    affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
+    name: "Esponja lava-costa ",   
+    image: "../image/produtos/shopee/PRODUTO_N_28.webp",    
+    affiliateLink: "https://s.shopee.com.br/AA57d71Xa6" 
   },
     { 
     id: "26", 
