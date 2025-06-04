@@ -215,7 +215,7 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
     affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
   },
-    { 
+  { 
     id: "27", 
     name: "Tampas descartáveis para ralo",   
     image: "../image/produtos/shopee/PRODUTO_N_27.webp",    
