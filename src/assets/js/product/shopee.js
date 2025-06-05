@@ -245,4 +245,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_31.webp",    
     affiliateLink: "https://s.shopee.com.br/LbExT9pDx" 
   },
+  { 
+    id: "32", 
+    name: "Organizador de guarda-roupa dobrável grande e durável",   
+    image: "../image/produtos/shopee/PRODUTO_N_32.webp",    
+    affiliateLink: "https://s.shopee.com.br/5AgUiROXCS" 
+  },
 ];
