@@ -255,7 +255,7 @@ export const productsShopee = [
     id: "33", 
     name: " Kit 3 organizadores de gaveta para sutiãs e cuecas",   
     image: "../image/produtos/shopee/PRODUTO_N_33.webp",    
-    affiliateLink: "https://s.shopee.com.br/5AgUiROXCS" 
+    affiliateLink: "https://s.shopee.com.br/qXVZSPBng" 
   },
   { 
     id: "34", 
