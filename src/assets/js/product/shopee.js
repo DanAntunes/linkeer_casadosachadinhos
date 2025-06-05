@@ -263,4 +263,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_34.webp",    
     affiliateLink: "https://s.shopee.com.br/4AnxYW6jpg" 
   },
+  { 
+    id: "35", 
+    name: " Mesa de cabeceira nicho moderna para quarto",   
+    image: "../image/produtos/shopee/PRODUTO_N_35.webp",    
+    affiliateLink: "https://s.shopee.com.br/40UXJIwQ5w" 
+  },
 ];
