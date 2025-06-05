@@ -254,7 +254,13 @@ export const productsShopee = [
   { 
     id: "33", 
     name: " Kit 3 organizadores de gaveta para sutiãs e cuecas",   
-    image: "../image/produtos/shopee/PRODUTO_N_32.webp",    
+    image: "../image/produtos/shopee/PRODUTO_N_33.webp",    
     affiliateLink: "https://s.shopee.com.br/5AgUiROXCS" 
+  },
+  { 
+    id: "34", 
+    name: "Luminária LED 3 cores com sensor de movimento USB",   
+    image: "../image/produtos/shopee/PRODUTO_N_34.webp",    
+    affiliateLink: "https://s.shopee.com.br/4AnxYW6jpg" 
   },
 ];
