@@ -239,4 +239,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_30.webp",    
     affiliateLink: "https://s.shopee.com.br/3qB466RUqU" 
   },
+  { 
+    id: "31", 
+    name: "Capa para colchão impermeável matelassê com elástico",   
+    image: "../image/produtos/shopee/PRODUTO_N_31.webp",    
+    affiliateLink: "https://s.shopee.com.br/LbExT9pDx" 
+  },
 ];
