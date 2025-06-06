@@ -281,4 +281,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_37.webp",    
     affiliateLink: "https://s.shopee.com.br/7phHWlhnOk" 
   },
+  { 
+    id: "38", 
+    name: "Saia Para Cama Box",   
+    image: "../image/produtos/shopee/PRODUTO_N_38.webp",    
+    affiliateLink: "https://s.shopee.com.br/1VnDzNv70Y" 
+  },
 ];
