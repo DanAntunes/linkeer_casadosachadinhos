@@ -275,4 +275,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_36.webp",    
     affiliateLink: "https://s.shopee.com.br/7Kl0vDHWbe" 
   },
+  { 
+    id: "37", 
+    name: "Escrivaninha Com Gaveta",   
+    image: "../image/produtos/shopee/PRODUTO_N_37.webp",    
+    affiliateLink: "https://s.shopee.com.br/7phHWlhnOk" 
+  },
 ];
