@@ -287,4 +287,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_38.webp",    
     affiliateLink: "https://s.shopee.com.br/1VnDzNv70Y" 
   },
+  { 
+    id: "39", 
+    name: "Gaveta Suspensa 70CM",   
+    image: "../image/produtos/shopee/PRODUTO_N_39.webp",    
+    affiliateLink: "https://s.shopee.com.br/8AK7wZLVFI" 
+  },
 ];
