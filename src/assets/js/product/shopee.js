@@ -269,4 +269,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_35.webp",    
     affiliateLink: "https://s.shopee.com.br/40UXJIwQ5w" 
   },
+  { 
+    id: "36", 
+    name: "Cadeira Petala Veludo",   
+    image: "../image/produtos/shopee/PRODUTO_N_36.webp",    
+    affiliateLink: "https://s.shopee.com.br/7Kl0vDHWbe" 
+  },
 ];
