@@ -299,4 +299,34 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
     affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
   },
+    { 
+    id: "40", 
+    name: "Potes Hermeticos em Acrilico Cristal",   
+    image: "../image/produtos/shopee/PRODUTO_N_41.webp",    
+    affiliateLink: "https://s.shopee.com.br/9zlnVROajp" 
+  },
+    { 
+    id: "40", 
+    name: "KIT 4 Prateleiras ",   
+    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
+    affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
+  },
+    { 
+    id: "40", 
+    name: "KIT 4 Prateleiras ",   
+    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
+    affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
+  },
+    { 
+    id: "40", 
+    name: "KIT 4 Prateleiras ",   
+    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
+    affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
+  },
+    { 
+    id: "40", 
+    name: "KIT 4 Prateleiras ",   
+    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
+    affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
+  },
 ];
