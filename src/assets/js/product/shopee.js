@@ -306,10 +306,10 @@ export const productsShopee = [
     affiliateLink: "https://s.shopee.com.br/9zlnVROajp" 
   },
     { 
-    id: "40", 
-    name: "KIT 4 Prateleiras ",   
-    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
-    affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
+    id: "42", 
+    name: "Prateleira de Parede para Cozinha",   
+    image: "../image/produtos/shopee/PRODUTO_N_42.webp",    
+    affiliateLink: "https://s.shopee.com.br/9ACgYmdWZ4" 
   },
     { 
     id: "40", 
