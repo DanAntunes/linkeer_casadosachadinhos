@@ -300,7 +300,7 @@ export const productsShopee = [
     affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
   },
     { 
-    id: "40", 
+    id: "41", 
     name: "Potes Hermeticos em Acrilico Cristal",   
     image: "../image/produtos/shopee/PRODUTO_N_41.webp",    
     affiliateLink: "https://s.shopee.com.br/9zlnVROajp" 
