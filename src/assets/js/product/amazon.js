@@ -125,4 +125,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_21.jpg", 
     affiliateLink: "https://amzn.to/3FMtpf2" 
   },
+    { 
+    id: "22", 
+    name: "CAMERA DE SEGURANCA WI-FI 360",       
+    image: "../image/produtos/amazon/PRODUTO_N_22.jpg", 
+    affiliateLink: "https://amzn.to/3SHvpYU" 
+  },
 ];
