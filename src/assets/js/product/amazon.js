@@ -119,4 +119,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_20.jpg", 
     affiliateLink: "https://amzn.to/3Ziapf6" 
   },
+  { 
+    id: "21", 
+    name: "Smart Plug Wi-Fi",       
+    image: "../image/produtos/amazon/PRODUTO_N_21.jpg", 
+    affiliateLink: "https://amzn.to/3FMtpf2" 
+  },
 ];
