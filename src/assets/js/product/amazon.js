@@ -115,7 +115,7 @@ export const productsAmazon = [
   },
   { 
     id: "20", 
-    name: "Echo Dot (Última geração) ",       
+    name: "Smart Lâmpada Wi-Fi",       
     image: "../image/produtos/amazon/PRODUTO_N_20.jpg", 
     affiliateLink: "https://amzn.to/3Ziapf6" 
   },
