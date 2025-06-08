@@ -113,5 +113,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_19.jpg", 
     affiliateLink: "https://amzn.to/3ZmiBel" 
   },
-  
+  { 
+    id: "20", 
+    name: "Echo Dot (Última geração) ",       
+    image: "../image/produtos/amazon/PRODUTO_N_20.jpg", 
+    affiliateLink: "https://amzn.to/3Ziapf6" 
+  },
 ];
