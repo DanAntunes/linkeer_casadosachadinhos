@@ -143,4 +143,10 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_24.webp", 
     affiliateLink: "https://mercadolivre.com/sec/24wSuC2" 
   },
+  { 
+    id: "25", 
+    name: "Cortina Tecido Oxford",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_25.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/1vN8Xi3" 
+  },
 ];
