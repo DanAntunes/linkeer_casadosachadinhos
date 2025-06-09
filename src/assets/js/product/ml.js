@@ -137,4 +137,10 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_23.webp", 
     affiliateLink: "https://mercadolivre.com/sec/29y16Vw" 
   },
+  { 
+    id: "24", 
+    name: "Tapete 2.00x1.50 Casa Laura",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_24.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/24wSuC2" 
+  },
 ];
