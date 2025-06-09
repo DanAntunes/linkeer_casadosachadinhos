@@ -125,4 +125,10 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_21.webp", 
     affiliateLink: "https://mercadolivre.com/sec/2bsWDwr" 
   },
+  { 
+    id: "22", 
+    name: "Capa Protetora Colchão Box",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_22.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/33J4V77" 
+  },
 ];
