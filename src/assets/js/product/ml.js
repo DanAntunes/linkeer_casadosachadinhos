@@ -131,4 +131,10 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_22.webp", 
     affiliateLink: "https://mercadolivre.com/sec/33J4V77" 
   },
+  { 
+    id: "23", 
+    name: "Abajur Preto Lateral De Cama",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_23.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/29y16Vw" 
+  },
 ];
