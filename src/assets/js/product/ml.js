@@ -3,7 +3,7 @@ export const productsML = [
     id: "1", 
     name: "Coberta Manta Soft Casal Microfibra Veludo", 
     image: "../image/produtos/mercado_livre/PRODUTO_N_1.webp",
-    affiliateLink: "https://mercadolivre.com/sec/247wWZM" 
+    affiliateLink: "https://mercadolivre.com/sec/1G63hgf" 
   },
   { 
     id: "2", 
