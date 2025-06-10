@@ -323,4 +323,11 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_44.webp",    
     affiliateLink: "https://s.shopee.com.br/4Ao0dhERQf" 
   },
+  { 
+    id: "45", 
+    name: "Mini Picador Elétrico De Alimentos",   
+    image: "../image/produtos/shopee/PRODUTO_N_45.webp",    
+    affiliateLink: "https://s.shopee.com.br/9f91t3KU8m" 
+  },
+  
 ];
