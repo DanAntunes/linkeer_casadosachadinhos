@@ -299,13 +299,13 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
     affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
   },
-    { 
+  { 
     id: "41", 
     name: "Potes Hermeticos em Acrilico Cristal",   
     image: "../image/produtos/shopee/PRODUTO_N_41.webp",    
     affiliateLink: "https://s.shopee.com.br/9zlnVROajp" 
   },
-    { 
+  { 
     id: "42", 
     name: "Prateleira de Parede para Cozinha",   
     image: "../image/produtos/shopee/PRODUTO_N_42.webp",    
@@ -331,7 +331,7 @@ export const productsShopee = [
   },
   { 
     id: "46", 
-    name: "Caldeira De Ovos Multifuncional",   
+    name: "Caldeira De Ovos Multifuncional Camada Dupla",   
     image: "../image/produtos/shopee/PRODUTO_N_46.webp",    
     affiliateLink: "https://s.shopee.com.br/5AgcWbkSXu" 
   },
