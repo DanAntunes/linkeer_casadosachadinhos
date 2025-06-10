@@ -341,10 +341,16 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_47.webp",    
     affiliateLink: "https://s.shopee.com.br/9AClGJO2Nu" 
   },
-    { 
+  { 
     id: "48", 
     name: "Realfit F1 Earbuds Sem Fio TWS Bluetooth 5.3",   
     image: "../image/produtos/shopee/PRODUTO_N_48.jpg",    
     affiliateLink: "https://s.shopee.com.br/9pSS2KpnOB" 
+  },
+  { 
+    id: "49", 
+    name: "Mini Lâmpada Noturna LED Recarregável",   
+    image: "../image/produtos/shopee/PRODUTO_N_49.jpg",    
+    affiliateLink: "https://s.shopee.com.br/5pwJHkyphi" 
   },
 ];
