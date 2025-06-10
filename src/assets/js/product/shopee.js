@@ -13,7 +13,7 @@ export const productsShopee = [
   },
   { 
     id: "3", 
-    name: "Mini Liquidificador Portátil",   
+    name: "Mini Liquidificador Portátil Shake",   
     image: "../image/produtos/shopee/PRODUTO_N_3.webp",    
     affiliateLink: "https://s.shopee.com.br/9zkqkX15JO" 
   },
