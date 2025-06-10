@@ -329,5 +329,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_45.webp",    
     affiliateLink: "https://s.shopee.com.br/9f91t3KU8m" 
   },
-  
+  { 
+    id: "46", 
+    name: "Caldeira De Ovos Multifuncional",   
+    image: "../image/produtos/shopee/PRODUTO_N_46.webp",    
+    affiliateLink: "https://s.shopee.com.br/5AgcWbkSXu" 
+  },
 ];
