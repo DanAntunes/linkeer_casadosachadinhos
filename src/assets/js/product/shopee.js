@@ -353,4 +353,10 @@ export const productsShopee = [
     image: "../image/produtos/shopee/PRODUTO_N_49.jpg",    
     affiliateLink: "https://s.shopee.com.br/5pwJHkyphi" 
   },
+  { 
+    id: "50", 
+    name: "Mini Lâmpada Noturna LED Recarregável",   
+    image: "../image/produtos/shopee/PRODUTO_N_50.webp",    
+    affiliateLink: "https://s.shopee.com.br/800np9tgnG" 
+  },
 ];
