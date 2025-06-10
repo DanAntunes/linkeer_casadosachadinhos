@@ -1,6 +1,7 @@
 import { productsAmazon } from './product/amazon.js';
 import { productsML }     from './product/ml.js';
 import { productsShopee } from './product/shopee.js';
+import { productsShopee2 } from './product/shopee2.js';
 
 document.addEventListener("DOMContentLoaded", () => {
   const siteSelect      = document.getElementById("siteSelect");
@@ -10,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function getProductsBySite(site) {
     if (site === "amazon") return productsAmazon;
     if (site === "ml")     return productsML;
-    if (site === "shopee") return productsShopee;
+    if (site === "shopee") return productsShopee.concat(productsShopee2);
     return [];
   }
 
