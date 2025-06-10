@@ -342,9 +342,9 @@ export const productsShopee = [
     affiliateLink: "https://s.shopee.com.br/9AClGJO2Nu" 
   },
     { 
-    id: "47", 
-    name: "Mini Impressora Térmica Portátil",   
-    image: "../image/produtos/shopee/PRODUTO_N_47.webp",    
-    affiliateLink: "https://s.shopee.com.br/9AClGJO2Nu" 
+    id: "48", 
+    name: "Mini Lâmpada Noturna Recarregávell",   
+    image: "../image/produtos/shopee/PRODUTO_N_48.webp",    
+    affiliateLink: "https://s.shopee.com.br/5pwJHkyphi" 
   },
 ];
