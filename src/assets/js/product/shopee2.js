@@ -17,4 +17,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_53.webp",    
     affiliateLink: "https://s.shopee.com.br/6VC23Y6V63" 
   },
+  { 
+    id: "54", 
+    name: "Jóias De Aniversário 3D Atmosférica Do Amor",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_54.webp",    
+    affiliateLink: "https://s.shopee.com.br/1LTvuNe9rX" 
+  },
 ]
