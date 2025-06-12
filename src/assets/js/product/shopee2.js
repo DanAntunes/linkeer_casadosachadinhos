@@ -47,4 +47,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_58.webp",    
     affiliateLink: "https://s.shopee.com.br/8fGXknjaUF" 
   },
+  { 
+    id: "59", 
+    name: "Espelho De Mesa LUX Oval Coração Dobrável Dupla Face",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_59.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qBI6LdChT" 
+  },
 ]
