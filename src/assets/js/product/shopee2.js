@@ -65,4 +65,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_61.webp",    
     affiliateLink: "https://s.shopee.com.br/qXgXaREtn" 
   },
+  { 
+    id: "62", 
+    name: "Luminária De Mesa Recarregáveis Led Com Proteção",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_62.webp",    
+    affiliateLink: "https://s.shopee.com.br/3AvbK1J7Y9" 
+  },
 ]
