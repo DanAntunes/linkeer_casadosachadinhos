@@ -59,4 +59,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_60.webp",    
     affiliateLink: "https://s.shopee.com.br/3qBI6LdChT" 
   },
+  { 
+    id: "61", 
+    name: "Espelho Mesa Penteadeira Porta Bijuteria",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_61.webp",    
+    affiliateLink: "https://s.shopee.com.br/qXgXaREtn" 
+  },
 ]
