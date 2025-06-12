@@ -41,4 +41,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_57.webp",    
     affiliateLink: "https://s.shopee.com.br/1LTx12eqLX" 
   },
+  { 
+    id: "58", 
+    name: "Luminária Capivara PLA Luz Noturna",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_58.webp",    
+    affiliateLink: "https://s.shopee.com.br/8fGXknjaUF" 
+  },
 ]
