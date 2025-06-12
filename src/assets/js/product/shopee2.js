@@ -29,4 +29,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_55.webp",    
     affiliateLink: "https://s.shopee.com.br/4L7Ya22keD" 
   },
+  { 
+    id: "56", 
+    name: "Luminaria lua 3d toque usb 5 cores RGB",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_56.webp",    
+    affiliateLink: "https://s.shopee.com.br/5L05m8wTdq" 
+  },
 ]
