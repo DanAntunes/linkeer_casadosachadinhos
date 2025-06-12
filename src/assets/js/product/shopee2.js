@@ -49,8 +49,14 @@ export const productsShopee2 = [
   },
   { 
     id: "59", 
-    name: "Espelho De Mesa LUX Oval Coração Dobrável Dupla Face",   
+    name: "Penteadeira suspensa com divisória",   
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_59.webp",    
+    affiliateLink: "https://s.shopee.com.br/8fGXqwNkB2" 
+  },
+  { 
+    id: "60", 
+    name: "Espelho De Mesa LUX Oval Coração Dobrável Dupla Face",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_60.webp",    
     affiliateLink: "https://s.shopee.com.br/3qBI6LdChT" 
   },
 ]
