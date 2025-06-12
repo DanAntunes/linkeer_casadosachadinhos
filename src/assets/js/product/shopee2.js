@@ -71,4 +71,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_62.webp",    
     affiliateLink: "https://s.shopee.com.br/3AvbK1J7Y9" 
   },
+  { 
+    id: "63", 
+    name: "Abajur luminária Led Para Mesa Bateria Recarregável",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_63.webp",    
+    affiliateLink: "https://s.shopee.com.br/1g6nXMmsHK" 
+  },
 ]
