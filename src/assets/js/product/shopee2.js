@@ -35,4 +35,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_56.webp",    
     affiliateLink: "https://s.shopee.com.br/5L05m8wTdq" 
   },
+  { 
+    id: "57", 
+    name: "Lindo San Liou Kulomi Série Pequena Noite",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_57.webp",    
+    affiliateLink: "https://s.shopee.com.br/1LTx12eqLX" 
+  },
 ]
