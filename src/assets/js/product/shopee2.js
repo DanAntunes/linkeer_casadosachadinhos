@@ -23,4 +23,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_54.webp",    
     affiliateLink: "https://s.shopee.com.br/1LTvuNe9rX" 
   },
+  { 
+    id: "55", 
+    name: "Luminaria elegante decoração 3d saturno",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_55.webp",    
+    affiliateLink: "https://s.shopee.com.br/4L7Ya22keD" 
+  },
 ]
