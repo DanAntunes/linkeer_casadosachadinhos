@@ -74,25 +74,25 @@ export const productsShopee = [
   { 
     id: "11", 
     name: "Tênis Diker F1 - Masculino",   
-    image: "../image/produtos/shopee/PRODUTO_N_11.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_11.webp",    
     affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
   },
   { 
     id: "11", 
     name: "Tênis Diker F1 - Feminino",   
-    image: "../image/produtos/shopee/PRODUTO_N_11_3.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_11_3.webp",    
     affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
   },
   { 
     id: "11", 
     name: "Tênis Diker F1 - Masculino",   
-    image: "../image/produtos/shopee/PRODUTO_N_11_2.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_11_2.webp",    
     affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
   },
   { 
     id: "11", 
     name: "Tênis Diker F1 - Feminino",   
-    image: "../image/produtos/shopee/PRODUTO_N_11_4.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_11_4.webp",    
     affiliateLink: "https://s.shopee.com.br/3qAWT2McAj" 
   },
   { 
