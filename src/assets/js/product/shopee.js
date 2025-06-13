@@ -8,7 +8,7 @@ export const productsShopee = [
   { 
     id: "2", 
     name: "Fone De Ouvido bluetooth 5.1 M100",    
-    image: "../image/produtos/shopee/PRODUTO_N_2.webp", 
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_2.webp", 
     affiliateLink: "https://s.shopee.com.br/9f80Lb1dJn" 
   },
   { 
