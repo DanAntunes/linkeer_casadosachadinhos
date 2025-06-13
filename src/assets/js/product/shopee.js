@@ -2,7 +2,7 @@ export const productsShopee = [
   { 
     id: "1", 
     name: "Projetor HY 300",   
-    image: "../image/produtos/shopee/PRODUTO_N_1.jpg",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_1.jpg",    
     affiliateLink: "https://s.shopee.com.br/6VAyL0dq4H" 
   },
   { 
