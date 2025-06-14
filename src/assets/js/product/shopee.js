@@ -98,55 +98,55 @@ export const productsShopee = [
   { 
     id: "12", 
     name: "Smartwatch D20 relógio",   
-    image: "../image/produtos/shopee/PRODUTO_N_12.jpg",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_12.jpg",    
     affiliateLink: "https://s.shopee.com.br/3VXg53OppO" 
   },
   { 
     id: "13", 
     name: "Drone E88 Pro 4K HD",   
-    image: "../image/produtos/shopee/PRODUTO_N_13.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_13.webp",    
     affiliateLink: "https://s.shopee.com.br/10qL6vVRAZ" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Bege",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_bege.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_bege.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Bordô",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_bordo.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_bordo.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Branco",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_branco.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_branco.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Cinza",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_cinza.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_cinza.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Preto",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_preto.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_preto.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "14", 
     name: "Moletom Algodão Canguru Inverno Premium Caveira Black - Preto Liso",   
-    image: "../image/produtos/shopee/PRODUTO_N_14_preto_liso.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_14_preto_liso.webp",    
     affiliateLink: "https://s.shopee.com.br/LafuS6qd7" 
   },
   { 
     id: "15", 
     name: "Pantufa de Pelúcia confortável",   
-    image: "../image/produtos/shopee/PRODUTO_N_15.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_15.webp",    
     affiliateLink: "https://s.shopee.com.br/20j38Nj7Ay" 
   },
   { 
