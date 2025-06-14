@@ -83,4 +83,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_64.webp",    
     affiliateLink: "https://s.shopee.com.br/1VnQfH5uMB" 
   },
+  { 
+    id: "65", 
+    name: " Pipoqueira Elétrica Ar Quente",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_65.webp",    
+    affiliateLink: "https://s.shopee.com.br/yct4xPZb" 
+  },
 ]
