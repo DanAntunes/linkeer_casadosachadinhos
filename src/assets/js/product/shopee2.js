@@ -77,4 +77,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_63.webp",    
     affiliateLink: "https://s.shopee.com.br/1g6nXMmsHK" 
   },
+  { 
+    id: "64", 
+    name: "Máquina de Fazer Donuts Rosquinhas",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_64.webp",    
+    affiliateLink: "https://s.shopee.com.br/1VnQfH5uMB" 
+  },
 ]
