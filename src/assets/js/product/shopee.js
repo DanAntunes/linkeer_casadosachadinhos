@@ -170,13 +170,13 @@ export const productsShopee = [
   { 
     id: "19", 
     name: "Escova Elétrica de Limpeza",   
-    image: "../image/produtos/shopee/PRODUTO_N_19.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_19.webp",    
     affiliateLink: "https://s.shopee.com.br/2fykGnim4O" 
   },
   { 
     id: "20", 
     name: "Mao Slippers 2023",   
-    image: "../image/produtos/shopee/PRODUTO_N_20.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_20.webp",    
     affiliateLink: "https://s.shopee.com.br/2fykIY58yc" 
   },
   { 
