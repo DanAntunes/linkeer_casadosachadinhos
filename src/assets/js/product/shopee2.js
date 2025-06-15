@@ -95,4 +95,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_66.jpg",    
     affiliateLink: "https://s.shopee.com.br/9Upjkf4pmd" 
   },
+  { 
+    id: "67", 
+    name: "Mop Cesto Inox Giratório Esfregão Limpeza Centrifuga",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_67.jpg",    
+    affiliateLink: "https://s.shopee.com.br/AUiGwuhelW" 
+  },
 ]
