@@ -101,4 +101,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_67.jpg",    
     affiliateLink: "https://s.shopee.com.br/AUiGwuhelW" 
   },
+  { 
+    id: "68", 
+    name: "68 - Escova De Limpeza 9 Em 1 Recarregavél Elétrica Giratória ",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_68.webp",    
+    affiliateLink: "https://s.shopee.com.br/4fkU0jlnaY" 
+  },
 ]
