@@ -89,4 +89,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_65.webp",    
     affiliateLink: "https://s.shopee.com.br/yct4xPZb" 
   },
+  { 
+    id: "66", 
+    name: "Aspirador e Soprador 5 em 1",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_66.jpg",    
+    affiliateLink: "https://s.shopee.com.br/9Upjkf4pmd" 
+  },
 ]
