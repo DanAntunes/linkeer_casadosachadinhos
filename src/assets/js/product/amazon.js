@@ -125,7 +125,7 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/PRODUTO_N_21.jpg", 
     affiliateLink: "https://amzn.to/3FMtpf2" 
   },
-    { 
+  { 
     id: "22", 
     name: "CAMERA DE SEGURANCA WI-FI 360",       
     image: "../image/produtos/amazon/PRODUTO_N_22.jpg", 
@@ -142,5 +142,11 @@ export const productsAmazon = [
     name: "Lixeira Automática com Sensor",       
     image: "../image/produtos/amazon/1-50/PRODUTO_N_24.jpg", 
     affiliateLink: "https://amzn.to/3FYGAtq" 
+  },
+  { 
+    id: "25", 
+    name: "Aspirador de Pó Robô WAP W100",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_25.jpg", 
+    affiliateLink: "https://amzn.to/3HFUj8Z" 
   },
 ];
