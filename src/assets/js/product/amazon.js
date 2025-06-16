@@ -133,7 +133,7 @@ export const productsAmazon = [
   },
   { 
     id: "23", 
-    name: "Fechadura Inteligente MFR 4000 (Intelbras'",       
+    name: "Fechadura Inteligente MFR 4000 (Intelbras)",       
     image: "../image/produtos/amazon/1-50/PRODUTO_N_23.jpg", 
     affiliateLink: "https://amzn.to/4lbJCtm" 
   },
