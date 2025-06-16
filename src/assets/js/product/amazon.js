@@ -137,4 +137,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/1-50/PRODUTO_N_23.jpg", 
     affiliateLink: "https://amzn.to/4lbJCtm" 
   },
+  { 
+    id: "24", 
+    name: "Lixeira Automática com Sensor",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_24.jpg", 
+    affiliateLink: "https://amzn.to/3FYGAtq" 
+  },
 ];
