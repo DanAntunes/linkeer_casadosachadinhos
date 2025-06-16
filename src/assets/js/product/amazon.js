@@ -149,4 +149,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/1-50/PRODUTO_N_25.jpg", 
     affiliateLink: "https://amzn.to/3HFUj8Z" 
   },
+  { 
+    id: "26", 
+    name: "Alimentador Automático Pet 5L (Tuya Wi‑Fi)",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_26.jpg", 
+    affiliateLink: "https://amzn.to/4kFKzdn" 
+  },
 ];
