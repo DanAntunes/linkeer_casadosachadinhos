@@ -242,31 +242,31 @@ export const productsShopee = [
   { 
     id: "31", 
     name: "Capa para colchão impermeável matelassê com elástico",   
-    image: "../image/produtos/shopee/PRODUTO_N_31.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_31.webp",    
     affiliateLink: "https://s.shopee.com.br/LbExT9pDx" 
   },
   { 
     id: "32", 
     name: "Organizador de guarda-roupa dobrável grande e durável",   
-    image: "../image/produtos/shopee/PRODUTO_N_32.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_32.webp",    
     affiliateLink: "https://s.shopee.com.br/5AgUiROXCS" 
   },
   { 
     id: "33", 
     name: " Kit 3 organizadores de gaveta para sutiãs e cuecas",   
-    image: "../image/produtos/shopee/PRODUTO_N_33.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_33.webp",    
     affiliateLink: "https://s.shopee.com.br/qXVZSPBng" 
   },
   { 
     id: "34", 
     name: "Luminária LED 3 cores com sensor de movimento USB",   
-    image: "../image/produtos/shopee/PRODUTO_N_34.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_34.webp",    
     affiliateLink: "https://s.shopee.com.br/4AnxYW6jpg" 
   },
   { 
     id: "35", 
     name: " Mesa de cabeceira nicho moderna para quarto",   
-    image: "../image/produtos/shopee/PRODUTO_N_35.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_35.webp",    
     affiliateLink: "https://s.shopee.com.br/40UXJIwQ5w" 
   },
   { 
