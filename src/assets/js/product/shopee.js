@@ -212,31 +212,31 @@ export const productsShopee = [
   { 
     id: "26", 
     name: "Porta escova com esterilizador UV",   
-    image: "../image/produtos/shopee/PRODUTO_N_26.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_26.webp",    
     affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
   },
   { 
     id: "27", 
     name: "Tampas descartáveis para ralo",   
-    image: "../image/produtos/shopee/PRODUTO_N_27.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_27.webp",    
     affiliateLink: "https://s.shopee.com.br/LbBumsEoW" 
   },
   { 
     id: "28", 
     name: "Esponja lava-costa ",   
-    image: "../image/produtos/shopee/PRODUTO_N_28.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_28.webp",    
     affiliateLink: "https://s.shopee.com.br/AA57d71Xa6" 
   },
   { 
     id: "29", 
     name: "Espelho LED oval sem fio com luz quente e fria",   
-    image: "../image/produtos/shopee/PRODUTO_N_29.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_29.webp",    
     affiliateLink: "https://s.shopee.com.br/gE2JteW1F" 
   },
   { 
     id: "30", 
     name: "Kit 2 saboneteiras de parede sem furos",   
-    image: "../image/produtos/shopee/PRODUTO_N_30.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_30.webp",    
     affiliateLink: "https://s.shopee.com.br/3qB466RUqU" 
   },
   { 
