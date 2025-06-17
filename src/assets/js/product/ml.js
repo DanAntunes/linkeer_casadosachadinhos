@@ -149,4 +149,34 @@ export const productsML = [
     image: "../image/produtos/mercado_livre/PRODUTO_N_25.webp", 
     affiliateLink: "https://mercadolivre.com/sec/1vN8Xi3" 
   },
+  { 
+    id: "26", 
+    name: "Teclado gamer Bahrein",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_26.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/22e35vW" 
+  },
+    { 
+    id: "27", 
+    name: "Redragon Cobra Chroma M711",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_27.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/24DKof4" 
+  },
+  { 
+    id: "28", 
+    name: "Headset Gamer Redragon Nireus",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_28.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/1dgVbnf" 
+  },
+    { 
+    id: "29", 
+    name: "Mousepad Force One Skyhawk Coringa",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_29.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/1EMcERT" 
+  },
+    { 
+    id: "30", 
+    name: "Suporte Fone De Ouvido Headset Efeitos Rgb",     
+    image: "../image/produtos/mercado_livre/PRODUTO_N_30.webp", 
+    affiliateLink: "https://mercadolivre.com/sec/2fRo5uU" 
+  },
 ];
