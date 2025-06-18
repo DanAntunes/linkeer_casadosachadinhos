@@ -131,4 +131,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_72.webp",    
     affiliateLink: "https://s.shopee.com.br/30cKzkKFZX" 
   },
+  { 
+    id: "73", 
+    name: "Mouse Pad Dragao Japones Gamer Antiderrapante",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_73.webp",    
+    affiliateLink: "https://s.shopee.com.br/9UpokBwBJV" 
+  },
 ]
