@@ -125,4 +125,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_71.webp",    
     affiliateLink: "https://s.shopee.com.br/2qIun6GATP" 
   },
+  { 
+    id: "72", 
+    name: "Projetor Estrela LED Rotativa Onda Oceânica e Nebulosa",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_72.webp",    
+    affiliateLink: "https://s.shopee.com.br/30cKzkKFZX" 
+  },
 ]
