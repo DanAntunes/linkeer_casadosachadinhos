@@ -103,8 +103,14 @@ export const productsShopee2 = [
   },
   { 
     id: "68", 
-    name: "68 - Escova De Limpeza 9 Em 1 Recarregavél Elétrica Giratória ",   
+    name: "Escova De Limpeza 9 Em 1 Recarregavél Elétrica Giratória ",   
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_68.webp",    
     affiliateLink: "https://s.shopee.com.br/4fkU0jlnaY" 
+  },
+  { 
+    id: "69", 
+    name: "Cadeira Gamer TGT Heron TC",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_69.webp",    
+    affiliateLink: "https://s.shopee.com.br/qXqMmNxrz" 
   },
 ]
