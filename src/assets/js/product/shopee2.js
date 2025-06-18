@@ -119,4 +119,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_70.webp",    
     affiliateLink: "https://s.shopee.com.br/708TkUXVFq" 
   },
+  { 
+    id: "71", 
+    name: "Fita Led Rgb 5050 Rolo 5m 300 Leds",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_71.webp",    
+    affiliateLink: "https://s.shopee.com.br/2qIun6GATP" 
+  },
 ]
