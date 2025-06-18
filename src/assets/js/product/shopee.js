@@ -272,91 +272,91 @@ export const productsShopee = [
   { 
     id: "36", 
     name: "Cadeira Petala Veludo",   
-    image: "../image/produtos/shopee/PRODUTO_N_36.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_36.webp",    
     affiliateLink: "https://s.shopee.com.br/7Kl0vDHWbe" 
   },
   { 
     id: "37", 
     name: "Escrivaninha Com Gaveta",   
-    image: "../image/produtos/shopee/PRODUTO_N_37.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_37.webp",    
     affiliateLink: "https://s.shopee.com.br/7phHWlhnOk" 
   },
   { 
     id: "38", 
     name: "Saia Para Cama Box",   
-    image: "../image/produtos/shopee/PRODUTO_N_38.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_38.webp",    
     affiliateLink: "https://s.shopee.com.br/1VnDzNv70Y" 
   },
   { 
     id: "39", 
     name: "Gaveta Suspensa 70CM",   
-    image: "../image/produtos/shopee/PRODUTO_N_39.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_39.webp",    
     affiliateLink: "https://s.shopee.com.br/8AK7wZLVFI" 
   },
   { 
     id: "40", 
     name: "KIT 4 Prateleiras ",   
-    image: "../image/produtos/shopee/PRODUTO_N_40.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_40.webp",    
     affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
   },
   { 
     id: "41", 
     name: "Potes Hermeticos em Acrilico Cristal",   
-    image: "../image/produtos/shopee/PRODUTO_N_41.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_41.webp",    
     affiliateLink: "https://s.shopee.com.br/9zlnVROajp" 
   },
   { 
     id: "42", 
     name: "Prateleira de Parede para Cozinha",   
-    image: "../image/produtos/shopee/PRODUTO_N_42.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_42.webp",    
     affiliateLink: "https://s.shopee.com.br/9ACgYmdWZ4" 
   },
   { 
     id: "43", 
     name: "Tabua De Corte",   
-    image: "../image/produtos/shopee/PRODUTO_N_43.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_43.webp",    
     affiliateLink: "https://s.shopee.com.br/9KW6mTUToS" 
   },
   { 
     id: "44", 
     name: "Escorredor Kitchen Rack Aço",   
-    image: "../image/produtos/shopee/PRODUTO_N_44.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_44.webp",    
     affiliateLink: "https://s.shopee.com.br/4Ao0dhERQf" 
   },
   { 
     id: "45", 
     name: "Mini Picador Elétrico De Alimentos",   
-    image: "../image/produtos/shopee/PRODUTO_N_45.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_45.webp",    
     affiliateLink: "https://s.shopee.com.br/9f91t3KU8m" 
   },
   { 
     id: "46", 
     name: "Caldeira De Ovos Multifuncional Camada Dupla",   
-    image: "../image/produtos/shopee/PRODUTO_N_46.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_46.webp",    
     affiliateLink: "https://s.shopee.com.br/5AgcWbkSXu" 
   },
   { 
     id: "47", 
     name: "Mini Impressora Térmica Portátil",   
-    image: "../image/produtos/shopee/PRODUTO_N_47.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_47.webp",    
     affiliateLink: "https://s.shopee.com.br/9AClGJO2Nu" 
   },
   { 
     id: "48", 
     name: "Realfit F1 Earbuds Sem Fio TWS Bluetooth 5.3",   
-    image: "../image/produtos/shopee/PRODUTO_N_48.jpg",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_48.jpg",    
     affiliateLink: "https://s.shopee.com.br/9pSS2KpnOB" 
   },
   { 
     id: "49", 
     name: "Mini Lâmpada Noturna LED Recarregável",   
-    image: "../image/produtos/shopee/PRODUTO_N_49.jpg",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_49.jpg",    
     affiliateLink: "https://s.shopee.com.br/5pwJHkyphi" 
   },
   { 
     id: "50", 
     name: "Mini Lâmpada Noturna LED Recarregável",   
-    image: "../image/produtos/shopee/PRODUTO_N_50.webp",    
+    image: "../image/produtos/shopee/shopee1/PRODUTO_N_50.webp",    
     affiliateLink: "https://s.shopee.com.br/800np9tgnG" 
   },
 ];
