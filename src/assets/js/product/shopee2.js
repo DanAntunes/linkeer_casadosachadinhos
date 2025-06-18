@@ -113,4 +113,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_69.webp",    
     affiliateLink: "https://s.shopee.com.br/qXqMmNxrz" 
   },
+  { 
+    id: "70", 
+    name: "Mesa Escrivaninha Gamer Gaming Desk",   
+    image: "../image/produtos/shopee/shopee2/PRODUTO_N_70.webp",    
+    affiliateLink: "https://s.shopee.com.br/708TkUXVFq" 
+  },
 ]
