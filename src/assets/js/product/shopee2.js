@@ -56,37 +56,37 @@ export const productsShopee2 = [
   { 
     id: "60", 
     name: "Espelho De Mesa LUX Oval Coração Dobrável Dupla Face",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_60.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_60.webp",    
     affiliateLink: "https://s.shopee.com.br/3qBI6LdChT" 
   },
   { 
     id: "61", 
     name: "Espelho Mesa Penteadeira Porta Bijuteria",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_61.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_61.webp",    
     affiliateLink: "https://s.shopee.com.br/qXgXaREtn" 
   },
   { 
     id: "62", 
     name: "Luminária De Mesa Recarregáveis Led Com Proteção",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_62.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_62.webp",    
     affiliateLink: "https://s.shopee.com.br/3AvbK1J7Y9" 
   },
   { 
     id: "63", 
     name: "Abajur luminária Led Para Mesa Bateria Recarregável",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_63.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_63.webp",    
     affiliateLink: "https://s.shopee.com.br/1g6nXMmsHK" 
   },
   { 
     id: "64", 
     name: "Máquina de Fazer Donuts Rosquinhas",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_64.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_64.webp",    
     affiliateLink: "https://s.shopee.com.br/1VnQfH5uMB" 
   },
   { 
     id: "65", 
     name: " Pipoqueira Elétrica Ar Quente",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_65.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_65.webp",    
     affiliateLink: "https://s.shopee.com.br/yct4xPZb" 
   },
   { 
