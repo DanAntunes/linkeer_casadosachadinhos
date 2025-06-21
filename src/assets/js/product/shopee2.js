@@ -98,25 +98,25 @@ export const productsShopee2 = [
   { 
     id: "67", 
     name: "Mop Cesto Inox Giratório Esfregão Limpeza Centrifuga",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_67.jpg",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_67.jpg",    
     affiliateLink: "https://s.shopee.com.br/AUiGwuhelW" 
   },
   { 
     id: "68", 
     name: "Escova De Limpeza 9 Em 1 Recarregavél Elétrica Giratória ",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_68.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_68.webp",    
     affiliateLink: "https://s.shopee.com.br/4fkU0jlnaY" 
   },
   { 
     id: "69", 
     name: "Cadeira Gamer TGT Heron TC",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_69.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_69.webp",    
     affiliateLink: "https://s.shopee.com.br/qXqMmNxrz" 
   },
   { 
     id: "70", 
     name: "Mesa Escrivaninha Gamer Gaming Desk",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_70.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_70.webp",    
     affiliateLink: "https://s.shopee.com.br/708TkUXVFq" 
   },
   { 
@@ -128,13 +128,13 @@ export const productsShopee2 = [
   { 
     id: "72", 
     name: "Projetor Estrela LED Rotativa Onda Oceânica e Nebulosa",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_72.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_72.webp",    
     affiliateLink: "https://s.shopee.com.br/30cKzkKFZX" 
   },
   { 
     id: "73", 
     name: "Mouse Pad Dragao Japones Gamer Antiderrapante",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_73.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_73.webp",    
     affiliateLink: "https://s.shopee.com.br/9UpokBwBJV" 
   },
   { 
