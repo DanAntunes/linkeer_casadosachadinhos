@@ -137,4 +137,28 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/shopee2/PRODUTO_N_73.webp",    
     affiliateLink: "https://s.shopee.com.br/9UpokBwBJV" 
   },
+  { 
+    id: "74", 
+    name: "Luz Arandela para Espelho 10 Lâmpadas",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_74.webp",    
+    affiliateLink: "https://s.shopee.com.br/8KdvdTId5M" 
+  },
+  { 
+    id: "75", 
+    name: "kit 2 Pendentes Diamante Lustre Luminária de Teto Retrô",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_75.webp",    
+    affiliateLink: "https://s.shopee.com.br/7KlORm5bMY" 
+  },
+    { 
+    id: "76", 
+    name: "Cortina Blackout",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_76.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qBWcemPFw" 
+  },
+    { 
+    id: "77", 
+    name: "Porta joias couro armazenamento 3 camadas",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_77.webp",    
+    affiliateLink: "https://s.shopee.com.br/5pwb0O8NXj" 
+  },
 ]
