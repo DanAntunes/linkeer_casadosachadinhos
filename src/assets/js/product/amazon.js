@@ -159,7 +159,7 @@ export const productsAmazon = [
     id: "27", 
     name: "Webcam Full HD 1080p com Microfone",       
     image: "../image/produtos/amazon/1-50/PRODUTO_N_27.jpg", 
-    affiliateLink: "https://amzn.to/4jP29dXn" 
+    affiliateLink: "https://amzn.to/4nx3cCr" 
   },
   { 
     id: "28", 
