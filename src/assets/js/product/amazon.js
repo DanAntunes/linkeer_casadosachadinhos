@@ -167,4 +167,10 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/1-50/PRODUTO_N_28.jpg", 
     affiliateLink: "https://amzn.to/3TwBXd3" 
   },
+  { 
+    id: "29", 
+    name: "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_29.jpg", 
+    affiliateLink: "https://amzn.to/4e4P4M0" 
+  },
 ];
