@@ -157,8 +157,14 @@ export const productsAmazon = [
   },
   { 
     id: "27", 
-    name: " Webcam Full HD 1080p com Microfone",       
+    name: "Webcam Full HD 1080p com Microfone",       
     image: "../image/produtos/amazon/1-50/PRODUTO_N_27.jpg", 
     affiliateLink: "https://amzn.to/4jP29dXn" 
+  },
+  { 
+    id: "28", 
+    name: "Teclado Mecânico Gamer Redragon Valheim",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_28.jpg", 
+    affiliateLink: "https://amzn.to/3TwBXd3" 
   },
 ];
