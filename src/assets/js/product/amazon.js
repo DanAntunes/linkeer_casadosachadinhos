@@ -173,4 +173,16 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/1-50/PRODUTO_N_29.jpg", 
     affiliateLink: "https://amzn.to/4e4P4M0" 
   },
+  { 
+    id: "30", 
+    name: "Headphone Gamer Havit HV‑H2002d",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_30.jpg", 
+    affiliateLink: "https://amzn.to/405SeJL" 
+  },
+  { 
+    id: "31", 
+    name: "Mouse pad para jogos RGB UtechSmart",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_31.jpg", 
+    affiliateLink: "https://amzn.to/446RDdv" 
+  },
 ];
