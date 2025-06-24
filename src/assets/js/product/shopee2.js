@@ -179,4 +179,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_80.webp",    
     affiliateLink: "https://s.shopee.com.br/7phk7QnpbQ" 
   },
+  { 
+    id: "81", 
+    name: " Placa Decorativa Gamer Tocar no PC Pode Causar Danos",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_81.webp",    
+    affiliateLink: "https://s.shopee.com.br/2VgDlj5mQ4" 
+  },
 ]
