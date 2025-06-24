@@ -173,4 +173,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_79.webp",    
     affiliateLink: "https://s.shopee.com.br/1LUGN1X5en" 
   },
+  { 
+    id: "80", 
+    name: "Quadro Decorativo Game Poster Decoração Knight Home",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_80.webp",    
+    affiliateLink: "https://s.shopee.com.br/7phk7QnpbQ" 
+  },
 ]
