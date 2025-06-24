@@ -161,10 +161,16 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_77.webp",    
     affiliateLink: "https://s.shopee.com.br/5pwb0O8NXj" 
   },
-    { 
+  { 
     id: "78", 
     name: "Quadro Decorativo Gamer Video Game Neon",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_78.webp",    
     affiliateLink: "https://s.shopee.com.br/2B3NMEKOjJ" 
+  },
+  { 
+    id: "79", 
+    name: "Quadro Decorativo 5 peças Animes",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_79.webp",    
+    affiliateLink: "https://s.shopee.com.br/1LUGN1X5en" 
   },
 ]
