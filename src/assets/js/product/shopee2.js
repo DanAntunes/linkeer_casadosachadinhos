@@ -203,4 +203,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_84.webp",    
     affiliateLink: "https://s.shopee.com.br/1VngaQ9O3P" 
   },
+  { 
+    id: "85", 
+    name: "Quadro decorativo porche carrera gt3 rs",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
+    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+  },
 ]
