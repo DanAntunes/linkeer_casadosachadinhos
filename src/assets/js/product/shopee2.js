@@ -191,4 +191,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_82.webp",    
     affiliateLink: "https://s.shopee.com.br/6VCMXAjez7" 
   },
+  { 
+    id: "83", 
+    name: "Kit 3 Placas Decorativas Gamer Grande",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_83.webp",    
+    affiliateLink: "https://s.shopee.com.br/1BAqBiHY2q" 
+  },
 ]
