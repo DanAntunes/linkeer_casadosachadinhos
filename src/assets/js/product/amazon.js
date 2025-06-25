@@ -20,43 +20,43 @@ export const productsAmazon = [
   { 
     id: "4", 
     name: "Romantic Crown Bolsa de Ombro Pequenas Feminina",       
-    image: "../image/produtos/amazon/PRODUTO_N_4.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_4.jpg", 
     affiliateLink: "https://amzn.to/4iTQLwT" 
   },
   { 
     id: "5", 
     name: "Mulheres que Correm com os Lobos",       
-    image: "../image/produtos/amazon/PRODUTO_N_5.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_5.jpg", 
     affiliateLink: "https://amzn.to/3RRLiM2" 
   },
   { 
     id: "6", 
     name: "Echo Pop | Smart speaker compacto com som envolvente e Alexa",       
-    image: "../image/produtos/amazon/PRODUTO_N_6.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_6.jpg", 
     affiliateLink: "https://amzn.to/3Snl04h" 
   },
   { 
     id: "7", 
     name: "Smartphone Motorola Moto g55 5G ",       
-    image: "../image/produtos/amazon/PRODUTO_N_7.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_7.jpg", 
     affiliateLink: "https://amzn.to/4jYExE6" 
   },
   { 
     id: "8", 
     name: "Wella Professionals Oil Reflections Light Óleo Capilar 100 ml",       
-    image: "../image/produtos/amazon/PRODUTO_N_8.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_8.jpg", 
     affiliateLink: "https://amzn.to/3GJqF2g" 
   },
   { 
     id: "9", 
     name: "Nunca minta Capa comum",       
-    image: "../image/produtos/amazon/PRODUTO_N_9.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_9.jpg", 
     affiliateLink: "https://amzn.to/4k5b4It" 
   },
   { 
     id: "10", 
     name: "O despertar da lua caída – Edição especial em capa dura",       
-    image: "../image/produtos/amazon/PRODUTO_N_10.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_10.jpg", 
     affiliateLink: "https://amzn.to/4k9VImc" 
   },
   { 
