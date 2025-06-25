@@ -197,4 +197,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_83.webp",    
     affiliateLink: "https://s.shopee.com.br/1BAqBiHY2q" 
   },
+  { 
+    id: "84", 
+    name: "Quadro Decorativo Vazado Gamer Geek",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_84.webp",    
+    affiliateLink: "https://s.shopee.com.br/1VngaQ9O3P" 
+  },
 ]
