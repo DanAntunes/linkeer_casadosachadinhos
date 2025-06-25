@@ -185,4 +185,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_81.webp",    
     affiliateLink: "https://s.shopee.com.br/2VgDlj5mQ4" 
   },
+  { 
+    id: "82", 
+    name: " Quadro Decorativo The Last Of us Part 2",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_82.webp",    
+    affiliateLink: "https://s.shopee.com.br/6VCMXAjez7" 
+  },
 ]
