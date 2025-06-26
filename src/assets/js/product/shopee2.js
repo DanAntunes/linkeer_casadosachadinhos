@@ -209,4 +209,25 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
     affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
   },
+  { 
+    id: "86", 
+    name: "Tapete Decorativo Game Over 118x70cm Antiderrapante",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_86.webp",    
+    affiliateLink: "https://s.shopee.com.br/3VYoSxzY0h" 
+  },  { 
+    id: "85", 
+    name: "Quadro decorativo porche carrera gt3 rs",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
+    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+  },  { 
+    id: "85", 
+    name: "Quadro decorativo porche carrera gt3 rs",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
+    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+  },  { 
+    id: "85", 
+    name: "Quadro decorativo porche carrera gt3 rs",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
+    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+  },
 ]
