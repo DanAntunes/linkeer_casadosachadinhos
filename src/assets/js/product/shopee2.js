@@ -220,14 +220,14 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_87.webp",    
     affiliateLink: "https://s.shopee.com.br/8fGucqABW4" 
   },  { 
-    id: "85", 
-    name: "Quadro decorativo porche carrera gt3 rs",   
-    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
-    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+    id: "88", 
+    name: "Kit 2 Luminárias Barra Led Rgb Gamer Sensor Músical Controle",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_88.jpg",    
+    affiliateLink: "https://s.shopee.com.br/6ppGRlEMT8" 
   },  { 
-    id: "85", 
-    name: "Quadro decorativo porche carrera gt3 rs",   
-    image: "../image/produtos/shopee/51-100/PRODUTO_N_85.webp",    
-    affiliateLink: "https://s.shopee.com.br/2VgDmXKmRA" 
+    id: "89", 
+    name: "Placa Decoração Gamer Grand Theft Auto - GTA",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_89.webp",    
+    affiliateLink: "https://s.shopee.com.br/5fdJ3on5Jv" 
   },
 ]
