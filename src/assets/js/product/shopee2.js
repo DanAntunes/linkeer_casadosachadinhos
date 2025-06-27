@@ -257,4 +257,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_93.webp",    
     affiliateLink: "https://s.shopee.com.br/9KWcfipmiJ" 
   },
+  { 
+    id: "94", 
+    name: "Suporte para controles Xbox e PlayStation e headset",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_94.webp",    
+    affiliateLink: "https://s.shopee.com.br/2LMsLdwZSw" 
+  },
 ]
