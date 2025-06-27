@@ -263,4 +263,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_94.webp",    
     affiliateLink: "https://s.shopee.com.br/2LMsLdwZSw" 
   },
+   { 
+    id: "95", 
+    name: "Mouse Pad Gmer 65x32cm Vários Modelos Populares",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_95.webp",    
+    affiliateLink: "https://s.shopee.com.br/6Kt17UUtE6" 
+  },
 ]
