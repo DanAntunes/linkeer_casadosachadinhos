@@ -251,4 +251,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_92.webp",    
     affiliateLink: "https://s.shopee.com.br/8UxVg1Evln" 
   },
+  { 
+    id: "93", 
+    name: "Relógio Despertador Digital De Mesa 16X2.",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_93.webp",    
+    affiliateLink: "https://s.shopee.com.br/9KWcfipmiJ" 
+  },
 ]
