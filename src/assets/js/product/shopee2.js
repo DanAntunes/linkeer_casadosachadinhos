@@ -214,20 +214,29 @@ export const productsShopee2 = [
     name: "Tapete Decorativo Game Over 118x70cm Antiderrapante",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_86.webp",    
     affiliateLink: "https://s.shopee.com.br/3VYoSxzY0h" 
-  },  { 
+  },  
+  { 
     id: "87", 
     name: "App e-sports atmosfera inteligente",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_87.webp",    
     affiliateLink: "https://s.shopee.com.br/8fGucqABW4" 
-  },  { 
+  },  
+  { 
     id: "88", 
     name: "Kit 2 Luminárias Barra Led Rgb Gamer Sensor Músical Controle",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_88.jpg",    
     affiliateLink: "https://s.shopee.com.br/6ppGRlEMT8" 
-  },  { 
+  },  
+  { 
     id: "89", 
     name: "Placa Decoração Gamer Grand Theft Auto - GTA",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_89.webp",    
     affiliateLink: "https://s.shopee.com.br/5fdJ3on5Jv" 
+  },
+  { 
+    id: "90", 
+    name: "Barra de Led Rítmica RGB Sensor",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_90.webp",    
+    affiliateLink: "https://s.shopee.com.br/4fkn6gnzhP" 
   },
 ]
