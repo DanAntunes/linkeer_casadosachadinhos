@@ -239,4 +239,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_90.webp",    
     affiliateLink: "https://s.shopee.com.br/4fkn6gnzhP" 
   },
+  { 
+    id: "91", 
+    name: "Luminária LED 3D de Mesa  - Controle de videogame",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_91.webp",    
+    affiliateLink: "https://s.shopee.com.br/708ht8F4cH" 
+  },
 ]
