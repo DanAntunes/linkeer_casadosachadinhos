@@ -245,4 +245,10 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_91.webp",    
     affiliateLink: "https://s.shopee.com.br/708ht8F4cH" 
   },
+  { 
+    id: "92", 
+    name: "Escrivaninha Mesa Gamer Valorant",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_92.webp",    
+    affiliateLink: "https://s.shopee.com.br/8UxVg1Evln" 
+  },
 ]
