@@ -62,25 +62,25 @@ export const productsAmazon = [
   { 
     id: "11", 
     name: "Pipoqueira, Pop Time, Branco, 220v, Britânia",       
-    image: "../image/produtos/amazon/PRODUTO_N_11.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_11.jpg", 
     affiliateLink: "https://amzn.to/3RTX8oM" 
   },
   { 
     id: "12", 
     name: "O despertar das monções: A Guerra dos Furacões - vol. 2",       
-    image: "../image/produtos/amazon/PRODUTO_N_12.png", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_12.png", 
     affiliateLink: "https://amzn.to/3FceWsv" 
   },
   { 
     id: "13", 
     name: "Bíblia Clássica do Tarot",       
-    image: "../image/produtos/amazon/PRODUTO_N_13.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_13.jpg", 
     affiliateLink: "https://amzn.to/3F1KjpJ" 
   },
   { 
     id: "14", 
     name: "BOX As Crônicas de Nárnia - Edição de Luxo",       
-    image: "../image/produtos/amazon/PRODUTO_N_14.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_14.jpg", 
     affiliateLink: "https://amzn.to/43h2OOS" 
   },
   { 
