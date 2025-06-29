@@ -122,7 +122,7 @@ export const productsShopee2 = [
   { 
     id: "71", 
     name: "Fita Led Rgb 5050 Rolo 5m 300 Leds",   
-    image: "../image/produtos/shopee/shopee2/PRODUTO_N_71.webp",    
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_71.webp",    
     affiliateLink: "https://s.shopee.com.br/2qIun6GATP" 
   },
   { 
@@ -263,10 +263,34 @@ export const productsShopee2 = [
     image: "../image/produtos/shopee/51-100/PRODUTO_N_94.webp",    
     affiliateLink: "https://s.shopee.com.br/2LMsLdwZSw" 
   },
-   { 
+  { 
     id: "95", 
     name: "Mouse Pad Gmer 65x32cm Vários Modelos Populares",   
     image: "../image/produtos/shopee/51-100/PRODUTO_N_95.webp",    
     affiliateLink: "https://s.shopee.com.br/6Kt17UUtE6" 
+  },
+  { 
+    id: "96", 
+    name: "Mini Aquecedor Pequeno Portátil De Parede",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_96.webp",    
+    affiliateLink: "https://s.shopee.com.br/3VYt4j1DfT" 
+  },
+     { 
+    id: "97", 
+    name: "Aquecedor de Ar Mondial A-08",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_97.webp",    
+    affiliateLink: "https://s.shopee.com.br/4VRQGru8Z5" 
+  },
+  { 
+    id: "98", 
+    name: "Cobertor Manta Casal Macio 2,00X1,80",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_98.webp",    
+    affiliateLink: "https://s.shopee.com.br/BIR8mlIn7" 
+  },
+     { 
+    id: "99", 
+    name: "Chaleira Elétrica Jarra 1.8L Café Chá Inox",   
+    image: "../image/produtos/shopee/51-100/PRODUTO_N_99.webp",    
+    affiliateLink: "https://s.shopee.com.br/1g7EvdPy7I" 
   },
 ]
