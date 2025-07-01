@@ -86,13 +86,13 @@ export const productsAmazon = [
   { 
     id: "15", 
     name: "Floriografia: A Linguagem Secreta das Flores",       
-    image: "../image/produtos/amazon/PRODUTO_N_15.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_15.jpg", 
     affiliateLink: " https://amzn.to/4kjiqs8" 
   },
   { 
     id: "16", 
     name: "A paciente silenciosa ",       
-    image: "../image/produtos/amazon/PRODUTO_N_16.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_16.jpg", 
     affiliateLink: "https://amzn.to/44IWFgZ" 
   },
   { 
