@@ -104,31 +104,31 @@ export const productsAmazon = [
   { 
     id: "18", 
     name: "Imperfeitos",       
-    image: "../image/produtos/amazon/PRODUTO_N_18.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_18.jpg", 
     affiliateLink: "https://amzn.to/3GQ06Z5" 
   },
   { 
     id: "19", 
     name: "Echo Dot (Última geração) ",       
-    image: "../image/produtos/amazon/PRODUTO_N_19.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_19.jpg", 
     affiliateLink: "https://amzn.to/3ZmiBel" 
   },
   { 
     id: "20", 
     name: "Smart Lâmpada Wi-Fi",       
-    image: "../image/produtos/amazon/PRODUTO_N_20.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_20.jpg", 
     affiliateLink: "https://amzn.to/3Ziapf6" 
   },
   { 
     id: "21", 
     name: "Smart Plug Wi-Fi",       
-    image: "../image/produtos/amazon/PRODUTO_N_21.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_21.jpg", 
     affiliateLink: "https://amzn.to/3FMtpf2" 
   },
   { 
     id: "22", 
     name: "CAMERA DE SEGURANCA WI-FI 360",       
-    image: "../image/produtos/amazon/PRODUTO_N_22.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_22.jpg", 
     affiliateLink: "https://amzn.to/3SHvpYU" 
   },
   { 
