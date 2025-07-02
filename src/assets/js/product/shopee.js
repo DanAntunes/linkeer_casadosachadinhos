@@ -62,13 +62,13 @@ export const productsShopee = [
   { 
     id: "9", 
     name: "Camisa Social Floral Masculina Havaiana Estampa - Azul",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_9_3.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_9_3.webp",    
     affiliateLink: "https://s.shopee.com.br/30bPPk5Vwe" 
   },
   { 
     id: "10", 
     name: "Videogame Stick 10mil jogos",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_10.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_10.webp",    
     affiliateLink: "https://s.shopee.com.br/4VQDEYaUsB" 
   },
   { 
