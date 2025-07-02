@@ -98,7 +98,7 @@ export const productsAmazon = [
   { 
     id: "17", 
     name: "Liquidificador Turbo Power, Mondial, Preto, 550W, 110V - L-99 FB",       
-    image: "../image/produtos/amazon/PRODUTO_N_17.jpg", 
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_17.jpg", 
     affiliateLink: "https://amzn.to/3ZleqiD" 
   },
   { 
