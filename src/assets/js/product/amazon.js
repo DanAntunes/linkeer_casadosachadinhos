@@ -185,4 +185,28 @@ export const productsAmazon = [
     image: "../image/produtos/amazon/1-50/PRODUTO_N_31.jpg", 
     affiliateLink: "https://amzn.to/446RDdv" 
   },
+  { 
+    id: "32", 
+    name: "Tapete Sala, Quarto Peludo Felpudo Macio e Luxuoso",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_32.jpg", 
+    affiliateLink: "https://amzn.to/3TSQdx2" 
+  },
+  { 
+    id: "33", 
+    name: "Cortina Blackout 220×130 cm",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_33.jpg", 
+    affiliateLink: "https://amzn.to/4nw8uhk" 
+  },
+  { 
+    id: "34", 
+    name: "Umidificador Gatinho rosa (250 ml)",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_34.jpg", 
+    affiliateLink: "https://amzn.to/45Sbgaq" 
+  },
+  { 
+    id: "35", 
+    name: "Abajur de Mesa LED Recarregável Touch 3 Níveis",       
+    image: "../image/produtos/amazon/1-50/PRODUTO_N_35.jpg", 
+    affiliateLink: "https://amzn.to/4kkYnZY" 
+  },
 ];
