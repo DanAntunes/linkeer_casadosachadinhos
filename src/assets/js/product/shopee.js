@@ -152,19 +152,19 @@ export const productsShopee = [
   { 
     id: "16", 
     name: "Toalha Grossa Mágica Para Cabelo",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_16.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_16.webp",    
     affiliateLink: "https://s.shopee.com.br/3frFlyCvxi" 
   },
   { 
     id: "17", 
     name: "Hidratante Blow Girl Morango",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_17.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_17.webp",    
     affiliateLink: "https://s.shopee.com.br/1qPbbCvtwM" 
   },
   { 
     id: "18", 
     name: "Rodo Spray Limpa Vidros",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_18.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_18.webp",    
     affiliateLink: "https://s.shopee.com.br/8fFxJnrjhQ" 
   },
   { 
