@@ -53,10 +53,10 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_108.webp",    
     affiliateLink: "https://s.shopee.com.br/9f9eQ65wZu" 
   },
-    { 
+  { 
     id: "109", 
-    name: "Prateleira De Canto Reto Branco Estante ",   
-    image: "../image/produtos/shopee/101-150/PRODUTO_N_104.webp",    
-    affiliateLink: "https://s.shopee.com.br/9KWo0Zd2Nd" 
+    name: "Suporte De Fone De Ouvido RGB 9 Modos De Luz",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_109.webp",    
+    affiliateLink: "https://s.shopee.com.br/9KWo3dNsox" 
   },
 ]
