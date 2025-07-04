@@ -31,8 +31,32 @@ export const productsShopee3 = [
   },
   { 
     id: "105", 
-    name: "Caixa de Som PC Gamer Com Luz RGB Estéreo ",   
+    name: "Placa Decorativa Não Perturbe Jogando Gamer 20x30",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_105.webp",    
+    affiliateLink: "https://s.shopee.com.br/9KWo0Zd2Nd" 
+  },
+  { 
+    id: "106", 
+    name: "Prateleira De Canto Reto Branco Estante ",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_106.webp",    
+    affiliateLink: "https://s.shopee.com.br/qYFt3tMxG" 
+  },
+  { 
+    id: "107", 
+    name: "Tapete de Porta Gamer Zone para Entrada",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_107.webp",    
+    affiliateLink: "https://s.shopee.com.br/3qBrSfNrE8" 
+  },
+  { 
+    id: "108", 
+    name: "Hollow Knight - O Cavaleiro. Miniatura Colecionável 3D",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_108.webp",    
+    affiliateLink: "https://s.shopee.com.br/9f9eQ65wZu" 
+  },
+    { 
+    id: "109", 
+    name: "Prateleira De Canto Reto Branco Estante ",   
     image: "../image/produtos/shopee/101-150/PRODUTO_N_104.webp",    
-    affiliateLink: "https://s.shopee.com.br/1BB4PyPjbS" 
+    affiliateLink: "https://s.shopee.com.br/9KWo0Zd2Nd" 
   },
 ]
