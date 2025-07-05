@@ -65,4 +65,10 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_110.webp",    
     affiliateLink: "https://s.shopee.com.br/7pi1dGnB8H" 
   },
+  { 
+    id: "111", 
+    name: "Webcam  Full HD 1080p com Microfone",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_111.webp",    
+    affiliateLink: "https://s.shopee.com.br/10rhUwgjdg" 
+  },
 ]
