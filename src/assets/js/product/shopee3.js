@@ -77,4 +77,10 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_112.webp",    
     affiliateLink: "https://s.shopee.com.br/5AhGSqYq0E" 
   },
+  { 
+    id: "113", 
+    name: "Microfone Com Fio USB Para Jogos RGB",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_113.webp",    
+    affiliateLink: "https://s.shopee.com.br/30clswR2gE" 
+  },
 ]
