@@ -59,4 +59,10 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_109.webp",    
     affiliateLink: "https://s.shopee.com.br/9KWo3dNsox" 
   },
+  { 
+    id: "110", 
+    name: "Cadeira De Escritório Tela Mesh Ribs",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_110.webp",    
+    affiliateLink: "https://s.shopee.com.br/7pi1dGnB8H" 
+  },
 ]
