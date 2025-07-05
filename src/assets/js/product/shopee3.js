@@ -86,7 +86,7 @@ export const productsShopee3 = [
   { 
     id: "114", 
     name: "Fone De Ouvido Headset Gamer Fifine Ampligame",   
-    image: "../image/produtos/shopee/101-150/PRODUTO_N_113.webp",    
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_114.webp",    
     affiliateLink: "https://s.shopee.com.br/8ztz2Khi8F" 
   },
 ]
