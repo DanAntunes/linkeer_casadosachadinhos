@@ -71,4 +71,10 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_111.webp",    
     affiliateLink: "https://s.shopee.com.br/10rhUwgjdg" 
   },
+  { 
+    id: "112", 
+    name: "Mini Soundbar Caixa De Som",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_112.webp",    
+    affiliateLink: "https://s.shopee.com.br/5AhGSqYq0E" 
+  },
 ]
