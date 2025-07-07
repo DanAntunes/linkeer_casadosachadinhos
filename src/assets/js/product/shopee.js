@@ -170,43 +170,43 @@ export const productsShopee = [
   { 
     id: "19", 
     name: "Escova Elétrica de Limpeza",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_19.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_19.webp",    
     affiliateLink: "https://s.shopee.com.br/2fykGnim4O" 
   },
   { 
     id: "20", 
     name: "Mao Slippers 2023",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_20.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_20.webp",    
     affiliateLink: "https://s.shopee.com.br/2fykIY58yc" 
   },
   { 
     id: "21", 
     name: "JOYBE Kit 4 Peças Mochila",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_21.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_21.webp",    
     affiliateLink: "https://s.shopee.com.br/4AnZLouoHe" 
   },
   { 
     id: "22", 
     name: "Madesa Reims Cozinha Completa",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_22.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_22.webp",    
     affiliateLink: "https://s.shopee.com.br/7V42y3hRiY" 
   },
   { 
     id: "23", 
     name: "Tapete de secagem rápida super absorvente",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_23.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_23.webp",    
     affiliateLink: "https://s.shopee.com.br/3VYDKFYYj6" 
   },
   { 
     id: "24", 
     name: "Prateleiras adesivas para organizar",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_24.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_24.webp",    
     affiliateLink: "https://s.shopee.com.br/4q3av85JCM" 
   },
   { 
     id: "25", 
     name: " Kit ducha higiênica completo",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_25.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_25.webp",    
     affiliateLink: "https://s.shopee.com.br/6VBoucJKOX" 
   },
   { 
