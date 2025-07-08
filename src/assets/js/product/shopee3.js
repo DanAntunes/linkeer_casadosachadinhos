@@ -89,4 +89,28 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_114.webp",    
     affiliateLink: "https://s.shopee.com.br/8ztz2Khi8F" 
   },
+    { 
+    id: "115", 
+    name: "Mini Microfone Sem Fio De Lapela",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_115.webp",    
+    affiliateLink: "https://s.shopee.com.br/2qJQa4RLn5" 
+  },
+    { 
+    id: "116", 
+    name: "Adaptador 6 Em 1 Type C Hub USB HDMI RJ45",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_116.webp",    
+    affiliateLink: "https://s.shopee.com.br/VvVnxzlMI" 
+  },
+    { 
+    id: "117", 
+    name: "X15 Fone De OuvidoTws Stereo Ultra Baixa Latency",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_117.webp",    
+    affiliateLink: "https://s.shopee.com.br/8AKwwaSs2L" 
+  },
+    { 
+    id: "118", 
+    name: "Escova de limpeza de teclado 8 em 1 multifuncional portátil",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_118.webp",    
+    affiliateLink: "https://s.shopee.com.br/BIfQ2ASr2" 
+  },
 ]
