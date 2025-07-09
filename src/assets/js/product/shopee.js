@@ -212,7 +212,7 @@ export const productsShopee = [
   { 
     id: "26", 
     name: "Porta escova com esterilizador UV",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_26.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_26.webp",    
     affiliateLink: "https://s.shopee.com.br/6AYyWTdbzR" 
   },
   { 
