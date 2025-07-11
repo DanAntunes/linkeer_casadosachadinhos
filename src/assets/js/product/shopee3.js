@@ -155,4 +155,28 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_125.webp",    
     affiliateLink: "https://s.shopee.com.br/8UxpAzEkGF" 
   },
+  { 
+    id: "126", 
+    name: "Mini Processador Triturador Sem Fio",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_126.webp",    
+    affiliateLink: "https://s.shopee.com.br/40VSkGvAvg" 
+  },
+  { 
+    id: "127", 
+    name: "Mini Aspirador de Pó Portátil",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_127.webp",    
+    affiliateLink: "https://s.shopee.com.br/qYQzPDN2b" 
+  },
+  { 
+    id: "128", 
+    name: "Robô Varredora/Aspirador De Pó",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_128.webp",    
+    affiliateLink: "https://s.shopee.com.br/5L0qLwXm2R" 
+  },
+  { 
+    id: "129", 
+    name: "Batedor Misturador Mixer Elétrico para Bebidas",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_129.webp",    
+    affiliateLink: "https://s.shopee.com.br/30cvZuizbS" 
+  },
 ]
