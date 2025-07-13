@@ -218,19 +218,19 @@ export const productsShopee = [
   { 
     id: "27", 
     name: "Tampas descartáveis para ralo",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_27.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_27.webp",    
     affiliateLink: "https://s.shopee.com.br/LbBumsEoW" 
   },
   { 
     id: "28", 
     name: "Esponja lava-costa ",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_28.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_28.webp",    
     affiliateLink: "https://s.shopee.com.br/AA57d71Xa6" 
   },
   { 
     id: "29", 
     name: "Espelho LED oval sem fio com luz quente e fria",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_29.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_29.webp",    
     affiliateLink: "https://s.shopee.com.br/gE2JteW1F" 
   },
   { 
