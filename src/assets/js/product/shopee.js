@@ -236,19 +236,19 @@ export const productsShopee = [
   { 
     id: "30", 
     name: "Kit 2 saboneteiras de parede sem furos",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_30.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_30.webp",    
     affiliateLink: "https://s.shopee.com.br/3qB466RUqU" 
   },
   { 
     id: "31", 
     name: "Capa para colchão impermeável matelassê com elástico",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_31.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_31.webp",    
     affiliateLink: "https://s.shopee.com.br/LbExT9pDx" 
   },
   { 
     id: "32", 
     name: "Organizador de guarda-roupa dobrável grande e durável",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_32.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_32.webp",    
     affiliateLink: "https://s.shopee.com.br/5AgUiROXCS" 
   },
   { 
