@@ -179,4 +179,34 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_129.webp",    
     affiliateLink: "https://s.shopee.com.br/30cvZuizbS" 
   },
+  { 
+    id: "130", 
+    name: "Boneco Deadpool Action figure",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_130.webp",    
+    affiliateLink: " https://s.shopee.com.br/3LFqmePsfB" 
+  },
+  { 
+    id: "131", 
+    name: "Letreiro Roblox Decorativo",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_131.webp",    
+    affiliateLink: "https://s.shopee.com.br/8fHN97bPcf" 
+  },
+  { 
+    id: "132", 
+    name: "Mouse Sem Fio com Bluetooth Recarregável Wireless Led Rgb Ergonômico",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_132.webp",    
+    affiliateLink: "https://s.shopee.com.br/6KtSNeUuzq" 
+  },
+  { 
+    id: "133", 
+    name: "Mouse Pad Gamer Extra Grande 90x40cm Preto Speed Liso",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_133.webp",    
+    affiliateLink: "https://s.shopee.com.br/9KX3xM9QRf" 
+  },
+  { 
+    id: "134", 
+    name: "50 Estilos De Brinquedos Bonitos ",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_134.webp",    
+    affiliateLink: "https://s.shopee.com.br/9pTKYItVzW" 
+  },
 ]
