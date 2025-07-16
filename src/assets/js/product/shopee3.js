@@ -209,4 +209,40 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_134.webp",    
     affiliateLink: "https://s.shopee.com.br/9pTKYItVzW" 
   },
+  { 
+    id: "135", 
+    name: "Mouse Pad/p Desktop 70X35cm Cute Cat com Orelhinhas e Borda Coturada",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_135.webp",    
+    affiliateLink: "https://s.shopee.com.br/3AwTB4nkB7" 
+  },
+  { 
+    id: "136", 
+    name: "Mouse Gamer Rosa LED RGB Gamer Profissional Fofinho Feminino Presente Fade Ozzix",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_136.webp",    
+    affiliateLink: "https://s.shopee.com.br/LcHnwZge1" 
+  },
+  { 
+    id: "137", 
+    name: " Suporte Do Fone De Ouvido Gaming",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_137.webp",    
+    affiliateLink: "https://s.shopee.com.br/709BkHYgab" 
+  },
+  { 
+    id: "138", 
+    name: "H'maston SN-17Headset Fone Bluetooth Sem Fio Gamer Com Luz Microfone",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_138.webp",    
+    affiliateLink: "https://s.shopee.com.br/1BBOnbXgNV" 
+  },
+  { 
+    id: "139", 
+    name: "Gabinete Gamer, Clanm Candy, Micro-ATX/ITX, Com 3 Fans, Rosa",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_139.webp",    
+    affiliateLink: "https://s.shopee.com.br/8zuG8434S2" 
+  },
+  { 
+    id: "140", 
+    name: "Fita de LED Mangueira Neon 5 Metros IP65 Flexível Com Fonte | 8 Cores",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_140.webp",    
+    affiliateLink: "https://s.shopee.com.br/8UxzXVLf1u" 
+  },
 ]
