@@ -245,4 +245,28 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_140.webp",    
     affiliateLink: "https://s.shopee.com.br/8UxzXVLf1u" 
   },
+    { 
+    id: "141", 
+    name: "Luminária decorativa Mesa de LED 3D",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_141.webp",    
+    affiliateLink: "https://s.shopee.com.br/6VCxAKHPA0" 
+  },
+    { 
+    id: "142", 
+    name: "Nicho Organizador Ajustável de Mesa livros",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_142.webp",    
+    affiliateLink: "https://s.shopee.com.br/2g0Eba6ixz" 
+  },
+    { 
+    id: "143", 
+    name: "Tapete Passadeira 1,00 x 0,60 Corredor Quarto Sala Felpudo",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_143.webp",    
+    affiliateLink: "https://s.shopee.com.br/40VcC8Pcg6" 
+  },
+    { 
+    id: "144", 
+    name: "MINI Espelho Mesa Penteadeira Porta Bijuteria Gatinha",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_144.webp",    
+    affiliateLink: "https://s.shopee.com.br/7fOuYyZdfa" 
+  },
 ]
