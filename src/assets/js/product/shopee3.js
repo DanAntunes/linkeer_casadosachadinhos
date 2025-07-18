@@ -269,4 +269,28 @@ export const productsShopee3 = [
     image: "../image/produtos/shopee/101-150/PRODUTO_N_144.webp",    
     affiliateLink: "https://s.shopee.com.br/7fOuYyZdfa" 
   },
+  { 
+    id: "145", 
+    name: "Mouse Pad Gamer Borda Costurada Estampas Rosa Meninas Kawaii",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_145.webp",    
+    affiliateLink: "https://s.shopee.com.br/9zmqybx0vw" 
+  },
+      { 
+    id: "146", 
+    name: "Fone Headset Gamer Gatinho com Fio e LED RGB - Orelhas Removíveis",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_146.webp",    
+    affiliateLink: "https://s.shopee.com.br/40VdqXqOUu" 
+  },
+      { 
+    id: "147", 
+    name: "Mesinha Setup Gamer de Monitor ou Notebook com gavetas Coração",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_147.webp",    
+    affiliateLink: "https://s.shopee.com.br/6pppEtUWhT" 
+  },
+      { 
+    id: "148", 
+    name: "Teclado semi mecânico gamer com fio rosa/branco/roxo/azul",   
+    image: "../image/produtos/shopee/101-150/PRODUTO_N_148.webp",    
+    affiliateLink: "https://s.shopee.com.br/8zuJrXI31i" 
+  },
 ]
