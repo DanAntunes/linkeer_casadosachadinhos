@@ -254,49 +254,49 @@ export const productsShopee = [
   { 
     id: "33", 
     name: " Kit 3 organizadores de gaveta para sutiãs e cuecas",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_33.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_33.webp",    
     affiliateLink: "https://s.shopee.com.br/qXVZSPBng" 
   },
   { 
     id: "34", 
     name: "Luminária LED 3 cores com sensor de movimento USB",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_34.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_34.webp",    
     affiliateLink: "https://s.shopee.com.br/4AnxYW6jpg" 
   },
   { 
     id: "35", 
     name: " Mesa de cabeceira nicho moderna para quarto",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_35.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_35.webp",    
     affiliateLink: "https://s.shopee.com.br/40UXJIwQ5w" 
   },
   { 
     id: "36", 
     name: "Cadeira Petala Veludo",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_36.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_36.webp",    
     affiliateLink: "https://s.shopee.com.br/7Kl0vDHWbe" 
   },
   { 
     id: "37", 
     name: "Escrivaninha Com Gaveta",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_37.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_37.webp",    
     affiliateLink: "https://s.shopee.com.br/7phHWlhnOk" 
   },
   { 
     id: "38", 
     name: "Saia Para Cama Box",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_38.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_38.webp",    
     affiliateLink: "https://s.shopee.com.br/1VnDzNv70Y" 
   },
   { 
     id: "39", 
     name: "Gaveta Suspensa 70CM",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_39.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_39.webp",    
     affiliateLink: "https://s.shopee.com.br/8AK7wZLVFI" 
   },
   { 
     id: "40", 
     name: "KIT 4 Prateleiras ",   
-    image: "../image/produtos/shopee/shopee1/PRODUTO_N_40.webp",    
+    image: "../image/produtos/shopee/1-50/PRODUTO_N_40.webp",    
     affiliateLink: "https://s.shopee.com.br/708AYzc8Tg" 
   },
   { 
